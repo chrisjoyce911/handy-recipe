@@ -1,0 +1,589 @@
+{
+    "Recipes": [
+        {
+            "id": 1,
+            "name": "Chicken Stir Fry with Celery, Carrot and Cashew",
+            "description": "This Chicken Stir Fry recipe Japanese-style Chinese dish. The flavour was modified to suit to Japanese palate - no garlic. You can consume a large amount of celery in this recipe. Carrots and cashew nuts add the colour and extra flavour to the dish. The sauce is thick and clear.",
+            "image": "https://via.placeholder.com/345x194/FFFF00",
+            "prep": 5,
+            "cooking": 5,
+            "phase": [
+                {
+                    "name": "main",
+                    "ingredients": [
+                        {
+                            "quanty": "200g",
+                            "ingredient": "chicken thigh fillets cut into thin strips"
+                        },
+                        {
+                            "quanty": "250g",
+                            "ingredient": "celery cut diagonally to 5cm / 2” long pieces , 5mm / 3/16” thick"
+                        },
+                        {
+                            "quanty": "100g",
+                            "ingredient": "carrot diagonally sliced thinly (3mm / ⅛ thick)"
+                        },
+                        {
+                            "quanty": "70g",
+                            "ingredient": "roasted cashew nuts (unsalted)"
+                        },
+                        {
+                            "quanty": "1 tbsp",
+                            "ingredient": "oil"
+                        },
+                        {
+                            "quanty": "",
+                            "ingredient": "Salt & pepper"
+                        },
+                        {
+                            "quanty": "1 tsp",
+                            "ingredient": "sesame oil"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sauce",
+                    "ingredients": [
+                        {
+                            "quanty": "1 tsp",
+                            "ingredient": "cornflour/corn starch"
+                        },
+                        {
+                            "quanty": "60ml",
+                            "ingredient": "water"
+                        },
+                        {
+                            "quanty": "¼ tsp",
+                            "ingredient": "chicken stock powder"
+                        },
+                        {
+                            "quanty": "½ tsp",
+                            "ingredient": "sake"
+                        },
+                        {
+                            "quanty": "¼ tsp",
+                            "ingredient": "soy sauce"
+                        },
+                        {
+                            "quanty": "⅛ tsp",
+                            "ingredient": "salt"
+                        }
+                    ]
+                }
+            ],
+            "method": [
+                {
+                    "order": 1,
+                    "description": "Add cornflour to a small bowl and gradually add water to dilute it completely."
+                },
+                {
+                    "order": 2,
+                    "description": "Then add the remaining Sauce ingredients and mix well."
+                },
+                {
+                    "order": 3,
+                    "description": "Heat oil in a large frying pan over high heat."
+                },
+                {
+                    "order": 4,
+                    "description": "Add chicken pieces, season with salt & pepper and cook for 1.5 to 2 minutes until the chicken pieces start browning a bit."
+                },
+                {
+                    "order": 5,
+                    "description": "Add celery and carrot. Cook for 1.5 minutes, then add cashew nuts. Stir for 30 seconds."
+                },
+                {
+                    "order": 6,
+                    "description": "Add the sauce (note 2) and stir quickly as the sauce will thicken fast. Ensure that sauce coats each piece of stir fry ingredients."
+                },
+                {
+                    "order": 7,
+                    "description": "Add the sesame oil and quickly stir. Serve immediately."
+                }
+            ],
+            "notes": [
+                {
+                    "order": 1,
+                    "note": "Instead of thigh fillets, you can use chicken breast. The meat will be drier than thigh fillets but it will be coated with the thick sauce so you will not find it too dry."
+                },
+                {
+                    "order": 2,
+                    "note": "Before adding the sauce to the frying pan, ensure that the cornflour is well mixed in the sauce and not collected at the bottom."
+                }
+            ],
+            "link": "https://japan.recipetineats.com/chicken-stir-fry-celery-carrot-cashew/"
+        },
+        {
+            "id": 2,
+            "name": "Beef w/ Black Bean Sauce",
+            "description": "In China, self-serving fast food restaurants are popular. They have all kind of foods present nicely on the counter. You just pick what you what. What we are making today is a really common dish that shows up in these restaurants. It is called 豉汁牛肉- also known as stir fry beef with black bean sauce. I got tons of request for this recipe and today is the day.",
+            "image": "https://via.placeholder.com/345x194/FFFF00",
+            "prep": 0,
+            "cooking": 0,
+            "phase": [
+                {
+                    "name": "Marinade",
+                    "ingredients": [
+                        {
+                            "quanty": "350 gram",
+                            "ingredient": "beef slices"
+                        },
+                        {
+                            "quanty": "2 tsp",
+                            "ingredient": "soy sauce"
+                        },
+                        {
+                            "quanty": "1/2 tsp",
+                            "ingredient": "salt"
+                        },
+                        {
+                            "quanty": "1/2 tsp",
+                            "ingredient": "baking soda"
+                        },
+                        {
+                            "quanty": "1 tsp",
+                            "ingredient": "grated garlic"
+                        },
+                        {
+                            "quanty": "1 tsp",
+                            "ingredient": "grated ginger"
+                        },
+                        {
+                            "quanty": "1 tsp",
+                            "ingredient": "cornstarch"
+                        }
+                    ]
+                },
+                {
+                    "name": "Stir-Frying",
+                    "ingredients": [
+                        {
+                            "quanty": "2.5 tbsp",
+                            "ingredient": "oil"
+                        },
+                        {
+                            "quanty": "",
+                            "ingredient": "marinated Beef"
+                        },
+                        {
+                            "quanty": "10 cloves",
+                            "ingredient": "garlic diced"
+                        },
+                        {
+                            "quanty": "1.5 tbsp",
+                            "ingredient": "Chinese fermented black beans"
+                        },
+                        {
+                            "quanty": "1/2",
+                            "ingredient": "medium size onion"
+                        },
+                        {
+                            "quanty": "1/2",
+                            "ingredient": "red bell pepper"
+                        },
+                        {
+                            "quanty": "1/2",
+                            "ingredient": "green bell pepper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sauce",
+                    "ingredients": [
+                        {
+                            "quanty": "1 tbsp",
+                            "ingredient": ""
+                        },
+                        {
+                            "quanty": "1 tbsp",
+                            "ingredient": ""
+                        },
+                        {
+                            "quanty": "",
+                            "ingredient": "white pepper to taste"
+                        },
+                        {
+                            "quanty": "1 cup",
+                            "ingredient": "beef stock"
+                        }
+                    ]
+                }
+            ],
+            "method": [
+                {
+                    "order": 1,
+                    "description": "Slice the beef thinly. Any tender cuts like sirloin steak, ribeye will be good for this recipe. But, I want to let you know that this is actually a cheap cut - beef chuck roast. I am going to show you the correct marinade and the cooking method. It will also come out tender and juicy like a restaurant quality meal."
+                },
+                {
+                    "order": 2,
+                    "description": "Marinade it with 2 tsp of soy sauce, 1 tsp of grated garlic, 1 tsp of grated ginger, 1/2 tsp of salt, 1/2 tsp of baking soda. It might sound strange but this is the secrets that Chinese restaurants use to create that soft velvety tender meat. And most cake you eat has baking soda in it so don’t worry about the safety issue. Last but not least, we gonna add 1 tsp of cornstarch. Mix everything until well combined. Cover it and let it sit for at least 30 minutes."
+                },
+                {
+                    "order": 3,
+                    "description": "While waiting, we can crush and dice 10 cloves of garlic. Yes, that is a lot of garlic, which is why this dish is delicious."
+                },
+                {
+                    "order": 4,
+                    "description": "Next ingredient is the key to this recipe. We call it 豆豉Douchi also known as black soybeans or Chinese black beans. It is a type of fermented and salted soybean. The smell is sharp and pungent which provides a lot of umami flavor for this recipe. Most Oriental store will carry it. You can also buy it on Amazon.I will put the link in the description. Roughly diced them. Put them next to the garlic as well."
+                },
+                {
+                    "order": 5,
+                    "description": "Besides that, I also prepared some vegetables: half of a green bell pepper, 1/2 of a red bell pepper, some carrot slices and onion slices. You can use other kinds of vegetables. The reason I picked these is that they are colorful which makes the dish look nicer."
+                },
+                {
+                    "order": 6,
+                    "description": "Next, we gonna quickly make a sauce. You will need 1 tbsp of soy sauce, 1 tbsp of oyster sauce, some white pepper to taste, 1 cup of beef stock. Give it a quick stir and that’s it. Let’s start cooking."
+                },
+                {
+                    "order": 7,
+                    "description": "Heat up your wok until you see it is slightly smoking. Add some cooking oil, about 2.5 tbsp. Give it a swirl so the oil covers the bottom. Add the beef, try to spread the beef so most of the pieces are touching the bottom of the wok. Wait until the meat is lightly seared on one side and then roughly stir them over. Keep cooking on the other side. Continue doing this until you get some nice chart on the edge of the meat. Take the meat out. Try to tilt your wok so if there is any excess grease, it will be left in the wok."
+                },
+                {
+                    "order": 8,
+                    "description": "I got about 2 tsp of oil left in there and the bottom has lots of crispy bits. Don’t wash the wok because those are good stuff. Add a little more oil to the wok and saute the garlic and black beans at low heat."
+                },
+                {
+                    "order": 9,
+                    "description": "Once they are fragrant, you can add all the vegetables. Stir them until the veggies is a bit soft. Then pour in the sauce. Now it is a good time the deglaze all the good stuff from the bottom of the wok. Once the sauce is bubbling, you can give it a taste to see if you need to adjust the flavor or not. Mine was perfect. Pour in some cornstarch water (2 tsp of cornstarch + 1 tbsp of water) and stir it immediately. This step we call it 勾芡in Chinese. It makes the sauce thick and creamy."
+                },
+                {
+                    "order": 10,
+                    "description": "Introduce the beef back into the wok. Mix everything until well combined and you are done."
+                }
+            ],
+            "notes": [
+                {
+                    "order": 1,
+                    "note": ""
+                }
+            ],
+            "link": "https://soupeduprecipes.com/stir-fry-beef-with-black-bean-sauce/"
+        },
+        {
+            "id": 3,
+            "name": "Beef Lo Mein",
+            "description": "I have made an Oyster Sauce Lo Mein recipe not so long ago. Even though it was a basic flavor, I got so many compliments. Everybody loves it. Today, we gonna upgrade it into a beef lo mein recipe. It is also easy and tasty. The beef is so tender and velvety. The noodles are flavorful. It got lots of umami taste from the oyster sauce. You can also use chicken, pork, shrimp instead of beef and create your own variations of lo mein.",
+            "prep": 0,
+            "image": "https://via.placeholder.com/345x194/FFFF00",
+            "cooking": 0,
+            "phase": [
+                {
+                    "name": "Marinade",
+                    "ingredients": [
+                        {
+                            "quanty": "300 grams",
+                            "ingredient": "beef slices"
+                        },
+                        {
+                            "quanty": "1/2 tbsp",
+                            "ingredient": "soy sauce"
+                        },
+                        {
+                            "quanty": "1/4 tsp",
+                            "ingredient": "salt"
+                        },
+                        {
+                            "quanty": "1/8 tsp",
+                            "ingredient": "baking soda"
+                        },
+                        {
+                            "quanty": "2 tbsp",
+                            "ingredient": "cooking wine"
+                        },
+                        {
+                            "quanty": "1/2 tsp",
+                            "ingredient": "Black pepper"
+                        },
+                        {
+                            "quanty": "1/2 tbsp",
+                            "ingredient": "cornstarch"
+                        }
+                    ]
+                },
+                {
+                    "name": "Main",
+                    "ingredients": [
+                        {
+                            "quanty": "300 g",
+                            "ingredient": "fresh egg noodles"
+                        },
+                        {
+                            "quanty": "1.5 tbsp",
+                            "ingredient": "soy sauce"
+                        },
+                        {
+                            "quanty": "3 tbsp",
+                            "ingredient": "oyster sauce"
+                        },
+                        {
+                            "quanty": "3 tbsp",
+                            "ingredient": "peanut oil"
+                        },
+                        {
+                            "quanty": "1",
+                            "ingredient": "medium size onion"
+                        },
+                        {
+                            "quanty": "3 pieces",
+                            "ingredient": "scallion"
+                        }
+                    ]
+                }
+            ],
+            "method": [
+                {
+                    "order": 1,
+                    "description": "Slice 300 grams of beef into 1/8 of inches thick pieces. You can use beef chuck, flank, ribeye, sirloin steak."
+                },
+                {
+                    "order": 2,
+                    "description": "Marinade it with 1/4 tsp of salt, 1/8 tsp of baking soda, 1/2 tbsp of soy sauce, 2 tbsp Chinese cooking wine, 1/2 tbsp of cornstarch, some freshly ground black pepper to taste. Mix well and let it sit for 20 minutes."
+                },
+                {
+                    "order": 3,
+                    "description": "Bring a pot of water to a boil. Cook 2 portions of fresh egg noodles for 2-3 minutes. If you are using a different type of noodles, you have to follow the cooking instruction on the package."
+                },
+                {
+                    "order": 4,
+                    "description": "While waiting for the noodles, you should have enough time to cook the beef."
+                },
+                {
+                    "order": 5,
+                    "description": "I got many people asking me - why is my food sticking to my carbon steel wok? Well, you need to learn how to control the wok heat correctly."
+                },
+                {
+                    "order": 6,
+                    "description": "First, turn the heat to maximum and heat the wok until it is smoking hot. Then add some oil. Be generous with oil amount for this recipe because you want enough oil to coat the noodles so they don’t stick together while serving."
+                },
+                {
+                    "order": 7,
+                    "description": "Give it a toss so the oil will create a slight non-stick surface on the bottom. Wait for the oil to be smoking again. That means the wok is hot enough for you to add the marinade beef. Stir and cook. This way, the meat will not stick to the wok at all. That is how you control the wok heat correctly. We call it 掌握火候in Chinese."
+                },
+                {
+                    "order": 8,
+                    "description": "When the beef is halfway cooked, you should still be able to see some pink color here and there. Add a bunch of sliced onion. Stir for another 15 seconds."
+                },
+                {
+                    "order": 9,
+                    "description": "By now, the noodles should be ready. Quickly take them out. Shake off the excess water. Throw a bunch of scallion into the wok along with the cooked noodles. Turn off the heat. It is important, I will explain why later."
+                },
+                {
+                    "order": 10,
+                    "description": "Add 1.5 tbsp of soy sauce, 3 tbsp of oyster sauce, and 1.5 tsp of dark soy sauce. I will suggest you use a better quality oyster sauce since it is the key flavor. Mix until the seasoning is well combined and you are done."
+                }
+            ],
+            "notes": [
+                {
+                    "order": 1,
+                    "note": "I turned off the heat right before I add the noodles is because we are making Lo Mein, all you need to do is to stir and mix. If you keep the heat on, then, you are making Chao Mein, which means stir fry noodles. That’s the difference between lo mein and Chao Mein."
+                },
+                {
+                    "order": 2,
+                    "note": "Give it a taste to adjust the flavor before serving because every brand of oyster sauce and soy sauce have a different level of sodium. You can add some toasted sesame oil at the end if you like. I don’t because I used peanut oil when cooking the beef."
+                }
+            ],
+            "link": "https://soupeduprecipes.com/beef-lo-mein-recipe/"
+        },
+        {
+            "id": 4,
+            "image": "https://via.placeholder.com/345x194/FFFF00",
+            "name": "Honey Soy Chicken Stir Fry",
+            "description": "Honey Soy Chicken Stir Fry",
+            "prep": 0,
+            "cooking": 0,
+            "phase": [
+                {
+                    "name": "Sauce",
+                    "ingredients": [
+                        {
+                            "quanty": "1/3 cup",
+                            "ingredient": "Soy sauce"
+                        },
+                        {
+                            "quanty": "2 tsp",
+                            "ingredient": "Cornflour"
+                        },
+                        {
+                            "quanty": "1/4 cup",
+                            "ingredient": "Water"
+                        },
+                        {
+                            "quanty": "1/3 cup",
+                            "ingredient": "Honey"
+                        },
+                        {
+                            "quanty": "1 tbsp",
+                            "ingredient": "Grated ginger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Main",
+                    "ingredients": [
+                        {
+                            "quanty": "500 g",
+                            "ingredient": "Chicken breast or thigh fillets"
+                        },
+                        {
+                            "quanty": "1 Large ",
+                            "ingredient": "carrot, thinly sliced"
+                        },
+                        {
+                            "quanty": "2 cups",
+                            "ingredient": "Broccoli florets, halved"
+                        },
+                        {
+                            "quanty": "1 cup",
+                            "ingredient": "Red capsicum, cut into strips"
+                        },
+                        {
+                            "quanty": "4",
+                            "ingredient": "4 Green onions, sliced"
+                        },
+                        {
+                            "quanty": "3 cloves",
+                            "ingredient": "Garlic, crushed"
+                        }
+                    ]
+                }
+            ],
+            "method": [
+                {
+                    "order": 1,
+                    "description": "Place cornflour in a jug. Gradually blend with water. Add soy sauce, honey and ginger and stir to combine. Set aside"
+                },
+                {
+                    "order": 2,
+                    "description": "To cook the rice, simply massage the pouch to separate the grains and place in the microwave for the required time as indicated on the packet. Set aside."
+                },
+                {
+                    "order": 3,
+                    "description": "Meanwhile, heat oil in a large non-stick frying pan or wok over a high heat. Add chicken and stir-fry for 2 minutes. Reduce heat slightly. Add carrot, broccoli and capsicum and stir-fry for 3 minutes longer, then add green onions and garlic and stir-fry for another minute."
+                },
+                {
+                    "order": 4,
+                    "description": "Stir honey soy mixture, then add to frying pan. Simmer, stirring for 2 minutes or until chicken is cooked through and vegetables are tender-crisp. Serve with rice and garnish with extra green onions."
+                }
+            ],
+            "notes": [],
+            "link": "https://www.sunrice.com.au/rice-recipes/honey-soy-chicken-stir-fry/"
+        },
+        {
+            "id": 5,
+            "image": "https://via.placeholder.com/345x194/FFFF00",
+            "name": "Beef and Broccolli",
+            "description": "Beef and broccoli is a popular and easy Chinese takeout dish. In this video, you will learn my techniques which will ensure your broccoli stays fresh and your beef turns out juicy and tender. Let’s get right into it.",
+            "prep": 0,
+            "cooking": 0,
+            "phase": [
+                {
+                    "name": "marinade",
+                    "ingredients": [
+                        {
+                            "quanty": "8 ounces",
+                            "ingredient": "Beef (chuck tender)"
+                        },
+                        {
+                            "quanty": "1 tbsp",
+                            "ingredient": "Chinese cooking wine"
+                        },
+                        {
+                            "quanty": "2 tsp",
+                            "ingredient": "light soy sauce"
+                        },
+                        {
+                            "quanty": "1 tsp",
+                            "ingredient": "Cornstarch"
+                        },
+                        {
+                            "quanty": "1/2 tsp",
+                            "ingredient": "black pepper"
+                        },
+                        {
+                            "quanty": "1/4 tsp",
+                            "ingredient": "baking soda"
+                        }
+                    ]
+                },
+                {
+                    "name": "Stir Fry",
+                    "ingredients": [
+                        {
+                            "quanty": "1 cup",
+                            "ingredient": "broccoli"
+                        },
+                        {
+                            "quanty": "1 tbsp",
+                            "ingredient": "minced garlic"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sause",
+                    "ingredients": [
+                        {
+                            "quanty": "1 tbsp",
+                            "ingredient": "Oyster sauce"
+                        },
+                        {
+                            "quanty": "1 tbsp",
+                            "ingredient": "light soy sauce"
+                        },
+                        {
+                            "quanty": "1 tsp",
+                            "ingredient": "Dark soy sauce"
+                        },
+                        {
+                            "quanty": "2-3 tbsp",
+                            "ingredient": "water"
+                        },
+                        {
+                            "quanty": "2 tsp",
+                            "ingredient": "cornstarch"
+                        },
+                        {
+                            "quanty": "1 tsp",
+                            "ingredient": "Sugar"
+                        },
+                        {
+                            "quanty": "1 tsp",
+                            "ingredient": "black pepper"
+                        }
+                    ]
+                }
+            ],
+            "method": [
+                {
+                    "order": 1,
+                    "description": "Slice your beef into thin pieces. I am using chuck tender. Make sure you cut against the fiber. This way, your beef will be less chewy."
+                },
+                {
+                    "order": 2,
+                    "description": "Marinate it with 1 tbsp of Chinese cooking wine, 2 tsp of light soy sauce, 1 tsp of cornstarch, some freshly ground pepper and 1/4 tsp of baking soda. This is what Chinese restaurants do to tenderize the beef- especially if they are using a tough cut of beef. Without baking soda, it’s gonna be a disaster."
+                },
+                {
+                    "order": 3,
+                    "description": "After it is well combined. We make the sauce. 1 tbsp of light soy sauce, 1 tbsp of oyster sauce, 2-3 tbsp of water, 2 tsp of cornstarch, some black pepper"
+                },
+                {
+                    "order": 4,
+                    "description": "Cut the broccoli into bite sizes. Blanch it in boiling water for 1 or 2 minutes. Don’t cover it or else the broccoli will lose its green color. Turn off the heat and put it into ice water for 3-5 minutes to stop the cooking process. Take it out and shake off the excess water. Using this technique, the broccoli will stay fresh and crunchy."
+                },
+                {
+                    "order": 5,
+                    "description": "Next, fry the beef. Heat up about 1 tbsp of oil. Give it a toss so the bottom is coated nicely"
+                },
+                {
+                    "order": 6,
+                    "description": "Add in the beef. Try to separate it so most of the beef touches the bottom of the wok. Let one side fry for 15-20 seconds. Use your spatula to flip it over and fry the other side for 15-20 seconds. You should also be able to smell the scent of the smoky beef. So good. Take it out and set it aside."
+                },
+                {
+                    "order": 7,
+                    "description": "In the same wok, add a little bit of oil. Put in some garlic and give it a stir. Pour the sauce into the hot wok. It will start thickening quickly. Then add in the broccoli. Mix it a little bit. Add the beef back into the wok. Coat it nicely. You are done."
+                }
+            ],
+            "notes": [],
+            "link": "https://soupeduprecipes.com/beef-and-broccolli/"
+        }
+    ]
+}
