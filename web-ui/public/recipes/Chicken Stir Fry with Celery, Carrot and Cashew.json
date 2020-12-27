@@ -1,0 +1,112 @@
+{
+    "name": "Chicken Stir Fry with Celery, Carrot and Cashew",
+    "description": "This Chicken Stir Fry recipe Japanese-style Chinese dish. The flavour was modified to suit to Japanese palate - no garlic. You can consume a large amount of celery in this recipe. Carrots and cashew nuts add the colour and extra flavour to the dish. The sauce is thick and clear.",
+    "image": "https://via.placeholder.com/345x194/FFFF00",
+    "prep": 5,
+    "cooking": 5,
+    "phase": [
+        {
+            "name": "main",
+            "ingredients": [
+                {
+                    "quanty": "200g",
+                    "ingredient": "chicken thigh fillets cut into thin strips"
+                },
+                {
+                    "quanty": "250g",
+                    "ingredient": "celery cut diagonally to 5cm / 2” long pieces , 5mm / 3/16” thick"
+                },
+                {
+                    "quanty": "100g",
+                    "ingredient": "carrot diagonally sliced thinly (3mm / ⅛ thick)"
+                },
+                {
+                    "quanty": "70g",
+                    "ingredient": "roasted cashew nuts (unsalted)"
+                },
+                {
+                    "quanty": "1 tbsp",
+                    "ingredient": "oil"
+                },
+                {
+                    "quanty": "",
+                    "ingredient": "Salt & pepper"
+                },
+                {
+                    "quanty": "1 tsp",
+                    "ingredient": "sesame oil"
+                }
+            ]
+        },
+        {
+            "name": "Sauce",
+            "ingredients": [
+                {
+                    "quanty": "1 tsp",
+                    "ingredient": "cornflour/corn starch"
+                },
+                {
+                    "quanty": "60ml",
+                    "ingredient": "water"
+                },
+                {
+                    "quanty": "¼ tsp",
+                    "ingredient": "chicken stock powder"
+                },
+                {
+                    "quanty": "½ tsp",
+                    "ingredient": "sake"
+                },
+                {
+                    "quanty": "¼ tsp",
+                    "ingredient": "soy sauce"
+                },
+                {
+                    "quanty": "⅛ tsp",
+                    "ingredient": "salt"
+                }
+            ]
+        }
+    ],
+    "method": [
+        {
+            "order": 1,
+            "description": "Add cornflour to a small bowl and gradually add water to dilute it completely."
+        },
+        {
+            "order": 2,
+            "description": "Then add the remaining Sauce ingredients and mix well."
+        },
+        {
+            "order": 3,
+            "description": "Heat oil in a large frying pan over high heat."
+        },
+        {
+            "order": 4,
+            "description": "Add chicken pieces, season with salt & pepper and cook for 1.5 to 2 minutes until the chicken pieces start browning a bit."
+        },
+        {
+            "order": 5,
+            "description": "Add celery and carrot. Cook for 1.5 minutes, then add cashew nuts. Stir for 30 seconds."
+        },
+        {
+            "order": 6,
+            "description": "Add the sauce (note 2) and stir quickly as the sauce will thicken fast. Ensure that sauce coats each piece of stir fry ingredients."
+        },
+        {
+            "order": 7,
+            "description": "Add the sesame oil and quickly stir. Serve immediately."
+        }
+    ],
+    "notes": [
+        {
+            "order": 1,
+            "note": "Instead of thigh fillets, you can use chicken breast. The meat will be drier than thigh fillets but it will be coated with the thick sauce so you will not find it too dry."
+        },
+        {
+            "order": 2,
+            "note": "Before adding the sauce to the frying pan, ensure that the cornflour is well mixed in the sauce and not collected at the bottom."
+        }
+    ],
+    "link": "https://japan.recipetineats.com/chicken-stir-fry-celery-carrot-cashew/"
+}
