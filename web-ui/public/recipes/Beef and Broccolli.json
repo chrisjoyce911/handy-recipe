@@ -1,0 +1,116 @@
+{
+    "image": "https://via.placeholder.com/345x194/FFFF00",
+    "name": "Beef and Broccolli",
+    "description": "Beef and broccoli is a popular and easy Chinese takeout dish. In this video, you will learn my techniques which will ensure your broccoli stays fresh and your beef turns out juicy and tender. Let’s get right into it.",
+    "prep": 0,
+    "cooking": 0,
+    "phase": [
+        {
+            "name": "marinade",
+            "ingredients": [
+                {
+                    "quanty": "8 ounces",
+                    "ingredient": "Beef (chuck tender)"
+                },
+                {
+                    "quanty": "1 tbsp",
+                    "ingredient": "Chinese cooking wine"
+                },
+                {
+                    "quanty": "2 tsp",
+                    "ingredient": "light soy sauce"
+                },
+                {
+                    "quanty": "1 tsp",
+                    "ingredient": "Cornstarch"
+                },
+                {
+                    "quanty": "1/2 tsp",
+                    "ingredient": "black pepper"
+                },
+                {
+                    "quanty": "1/4 tsp",
+                    "ingredient": "baking soda"
+                }
+            ]
+        },
+        {
+            "name": "Stir Fry",
+            "ingredients": [
+                {
+                    "quanty": "1 cup",
+                    "ingredient": "broccoli"
+                },
+                {
+                    "quanty": "1 tbsp",
+                    "ingredient": "minced garlic"
+                }
+            ]
+        },
+        {
+            "name": "Sause",
+            "ingredients": [
+                {
+                    "quanty": "1 tbsp",
+                    "ingredient": "Oyster sauce"
+                },
+                {
+                    "quanty": "1 tbsp",
+                    "ingredient": "light soy sauce"
+                },
+                {
+                    "quanty": "1 tsp",
+                    "ingredient": "Dark soy sauce"
+                },
+                {
+                    "quanty": "2-3 tbsp",
+                    "ingredient": "water"
+                },
+                {
+                    "quanty": "2 tsp",
+                    "ingredient": "cornstarch"
+                },
+                {
+                    "quanty": "1 tsp",
+                    "ingredient": "Sugar"
+                },
+                {
+                    "quanty": "1 tsp",
+                    "ingredient": "black pepper"
+                }
+            ]
+        }
+    ],
+    "method": [
+        {
+            "order": 1,
+            "description": "Slice your beef into thin pieces. I am using chuck tender. Make sure you cut against the fiber. This way, your beef will be less chewy."
+        },
+        {
+            "order": 2,
+            "description": "Marinate it with 1 tbsp of Chinese cooking wine, 2 tsp of light soy sauce, 1 tsp of cornstarch, some freshly ground pepper and 1/4 tsp of baking soda. This is what Chinese restaurants do to tenderize the beef- especially if they are using a tough cut of beef. Without baking soda, it’s gonna be a disaster."
+        },
+        {
+            "order": 3,
+            "description": "After it is well combined. We make the sauce. 1 tbsp of light soy sauce, 1 tbsp of oyster sauce, 2-3 tbsp of water, 2 tsp of cornstarch, some black pepper"
+        },
+        {
+            "order": 4,
+            "description": "Cut the broccoli into bite sizes. Blanch it in boiling water for 1 or 2 minutes. Don’t cover it or else the broccoli will lose its green color. Turn off the heat and put it into ice water for 3-5 minutes to stop the cooking process. Take it out and shake off the excess water. Using this technique, the broccoli will stay fresh and crunchy."
+        },
+        {
+            "order": 5,
+            "description": "Next, fry the beef. Heat up about 1 tbsp of oil. Give it a toss so the bottom is coated nicely"
+        },
+        {
+            "order": 6,
+            "description": "Add in the beef. Try to separate it so most of the beef touches the bottom of the wok. Let one side fry for 15-20 seconds. Use your spatula to flip it over and fry the other side for 15-20 seconds. You should also be able to smell the scent of the smoky beef. So good. Take it out and set it aside."
+        },
+        {
+            "order": 7,
+            "description": "In the same wok, add a little bit of oil. Put in some garlic and give it a stir. Pour the sauce into the hot wok. It will start thickening quickly. Then add in the broccoli. Mix it a little bit. Add the beef back into the wok. Coat it nicely. You are done."
+        }
+    ],
+    "notes": [],
+    "link": "https://soupeduprecipes.com/beef-and-broccolli/"
+}
