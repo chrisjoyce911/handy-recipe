@@ -1,0 +1,116 @@
+{
+    "name": "Mongolian Beef",
+    "description": "Mongolian Beef is a Chinese dish that most Chinese people don’t even know about.",
+    "image": "",
+    "prep": 30,
+    "cooking": 10,
+    "phase": [
+        {
+            "name": "Marinade",
+            "ingredients": [
+                {
+                    "quanty": "14 ounces",
+                    "ingredient": "beef cut into 5mm thick"
+                },
+                {
+                    "quanty": "2 table spoon",
+                    "ingredient": "Chinese cooking wine"
+                },
+                {
+                    "quanty": "1/3 tea spoon",
+                    "ingredient": "salt"
+                },
+                {
+                    "quanty": "1/4 tea spoon",
+                    "ingredient": "baking soda"
+                },
+                {
+                    "quanty": "1/2 tea spoon",
+                    "ingredient": "black pepper"
+                },
+                {
+                    "quanty": "1/4 cup",
+                    "ingredient": "cornstarch (just enough to coat the beef)"
+                },
+                {
+                    "quanty": "1.5 large ",
+                    "ingredient": "egg white"
+                }
+            ]
+        },
+        {
+            "name": "Stir-frying",
+            "ingredients": [
+                {
+                    "quanty": "1 table spoon",
+                    "ingredient": "minced ginger"
+                },
+                {
+                    "quanty": "1 1/2 table spo",
+                    "ingredient": "minced garlic"
+                },
+                {
+                    "quanty": "1 bunch",
+                    "ingredient": "spring onion use the white part to stir fry and reserve the green part to add at the end"
+                }
+            ]
+        },
+        {
+            "name": "Sauce",
+            "ingredients": [
+                {
+                    "quanty": "2 tea spoon",
+                    "ingredient": "cornstarch"
+                },
+                {
+                    "quanty": "1 table spoon",
+                    "ingredient": "oyster sauce"
+                },
+                {
+                    "quanty": "3 table spoon",
+                    "ingredient": "Ksoy sauce"
+                },
+                {
+                    "quanty": "3 table spoon",
+                    "ingredient": "brown sugar"
+                },
+                {
+                    "quanty": "2/3 cup",
+                    "ingredient": "water"
+                },
+                {
+                    "quanty": "1/2 tea spoon",
+                    "ingredient": "dark soy sauce"
+                }
+            ]
+        }
+    ],
+    "method": [
+        {
+            "order": 1,
+            "description": "slice the beef into 5 mm thick mix with Chinese cooking wine,baking soda, salt and pepper. Sit it aside for 30mins"
+        },
+        {
+            "order": 2,
+            "description": "coat the beef with some cornstarch and mix with egg white, massaging it for another 5 minutes"
+        },
+        {
+            "order": 3,
+            "description": "Heat up 2 cups of frying oil, Add your beef piece by piece and fry for 1 to 2 minutes. (you may need to batch this to stop them sticking together"
+        },
+        {
+            "order": 4,
+            "description": "Mix the Sauce and set aside ready for  stir-frying"
+        },
+        {
+            "order": 5,
+            "description": "Heat up the pan. Add about 1.5 tbsp of cooking oil, minced ginger, minced garlic, and some white part of the spring onion"
+        },
+        {
+            "order": 6,
+            "description": "Stir this until fragrant. Pour in the sauce. Stir it until it thickens up. Add the beef back into the pan. Mix everything together. Once you see the beef is coated with that shiny, thick, flavorful sauce, you can add some spring onion. Give it a final stir then take it out and serve it with white rice."
+        }
+    ],
+    "notes": [],
+    "link": "https://soupeduprecipes.com/mongolian-beef/"
+}
