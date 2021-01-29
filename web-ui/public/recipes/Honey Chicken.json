@@ -1,0 +1,117 @@
+{
+    "name": "Honey Chicken",
+    "description": "Super easy Honey Chicken",
+    "image": "https://via.placeholder.com/345x194/FFFF00",
+    "prep": 35,
+    "cooking": 15,
+    "phase": [
+        {
+            "name": "Marinade",
+            "ingredients": [
+                {
+                    "quanty": "500 gram",
+                    "ingredient": "boneless chicken thigh"
+                },
+                {
+                    "quanty": "2 tablespoons",
+                    "ingredient": "soy sauce"
+                },
+                {
+                    "quanty": "1.5 tablespoons",
+                    "ingredient": "fresh ginger juice"
+                },
+                {
+                    "quanty": "1/2 teaspoon",
+                    "ingredient": "black pepper"
+                },
+                {
+                    "quanty": "1 tablespoon",
+                    "ingredient": "Chinese cooking wine"
+                },
+                {
+                    "quanty": "1/2 tablespoon",
+                    "ingredient": "sesame oil"
+                },
+                {
+                    "quanty": "3 tablespoons",
+                    "ingredient": "cornflour"
+                }
+            ]
+        },
+        {
+            "name": "Main",
+            "ingredients": [
+                {
+                    "quanty": "1/2 cup",
+                    "ingredient": "cornflour"
+                }
+            ]
+        },
+        {
+            "name": "Sauce",
+            "ingredients": [
+                {
+                    "quanty": "1 thumb size",
+                    "ingredient": "ginger – julienne"
+                },
+                {
+                    "quanty": "5 cloves",
+                    "ingredient": "chopped garlic"
+                },
+                {
+                    "quanty": "1/4 cup",
+                    "ingredient": "water"
+                },
+                {
+                    "quanty": "4 tablespoons",
+                    "ingredient": "tomato sauce"
+                },
+                {
+                    "quanty": "2 tablespoons",
+                    "ingredient": "honey"
+                }
+            ]
+        }
+    ],
+    "method": [
+        {
+            "order": 1,
+            "description": "Cut chicken into 2cm cubes"
+        },
+        {
+            "order": 2,
+            "description": "Combine chicken with 2 tablespoons soy sauce, 1.5 tablespoons of fresh ginger juice, 1/2 teaspoon of black pepper, 1 tablespoon of Chinese cooking wine, 1/2 tablespoon of sesame oil, 3 tablespoons of cornflour"
+        },
+        {
+            "order": 3,
+            "description": "Let the chicken sit in the marinade for around 1 hour"
+        },
+        {
+            "order": 4,
+            "description": "Roll chicken cubes in cornflour and let sit for 15 minutes"
+        },
+        {
+            "order": 5,
+            "description": "double fry the chicken and set aside"
+        },
+        {
+            "order": 6,
+            "description": "lighley fry the ginger and garlic for ths sauce"
+        },
+        {
+            "order": 7,
+            "description": "combien the rest of the sauce (water ,tomato sauce and honey, and simmer till it thickens"
+        },
+        {
+            "order": 8,
+            "description": "add in the chicken and mix, add a little sesame seeds and your ready to go"
+        }
+    ],
+    "notes": [
+        {
+            "order": 1,
+            "note": ""
+        }
+    ],
+    "link": "https://www.spicenpans.com/honey-chicken/"
+}
