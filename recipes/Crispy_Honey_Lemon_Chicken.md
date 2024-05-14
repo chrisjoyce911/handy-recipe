@@ -3,6 +3,8 @@
 Crispy Honey Lemon Chicken with lightly battered chicken tossed in classic Chinese style lemon sauce. It takes only 30 minutes to prepare and a lot quicker than ordering from the takeaway! In this recipe, you’ll learn how to make a perfect sweet, savoury, tangy lemon chicken recipe with our simple tips.
 
 ## Ingredients
+
+### Stir fry
 * 250 g Chicken breast or thigh, cut small cubes
 * 1 Egg
 * 1 cup Potato / Corn starch
@@ -10,13 +12,13 @@ Crispy Honey Lemon Chicken with lightly battered chicken tossed in classic Chine
 * Toasted sesame seeds
 * Oil for frying vegetable or neutral flavour oil, canola, sunflower, etc
 
-## Marinate for Chicken
+### Marinate for Chicken
 * 1/4 tsp Baking soda
 * 1 tsp Sesame Oil 
 * 1 tsp Light Soy Sauce or all-purpose soy sauce
 * 1 tsp Ginger garlic paste ( grated ginger and garlic )
 
-## Sauce mix
+### Sauce mix
 * 1/2 cup Chicken Stock Or water
 * 1/2 tsp Salt 
 * 2 tbsp Honey or sugar
@@ -24,7 +26,7 @@ Crispy Honey Lemon Chicken with lightly battered chicken tossed in classic Chine
 * 1 Lemon about 3 tbsp of lemon juice
 * 3-4 slices Ginger cut thin strips
 
-Instructions
+## Instructions
 1. Cut chicken into small bite size pieces. Add baking soda, sesame oil, ginger garlic paste and light soy sauce mix well and marinate for 15 minutes.
     * 1/4 tsp Baking soda
     * 1 tsp Sesame Oil 

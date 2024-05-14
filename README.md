@@ -20,14 +20,14 @@
 ## Chicken
 * [Cashew Chicken](recipes/Cashew_Chicken.md)
 * [Chicken Bulgogi](recipes/Chicken_Bulgogi.md)
-* [Chicken Stir Fry with Celery, Carrot and Cashew](recipes/ )
+* [Chicken Stir Fry with Celery, Carrot and Cashew](recipes/Chicken_Stir_Fry_with_Celery_Carrot_Cashew.md)
 * [Chicken and Brocolli](recipes/Chicken_and_Brocolli.md)
 * [Crispy Honey Chilli Chicken](recipes/Crispy_Honey_Chilli_Chicken.md)
 * [Crispy Honey Lemon Chicken](recipes/Crispy_Honey_Lemon_Chicken.md)
-* [Honey Chicken](recipes/ )
-* [Honey Glazed Roasted Chicken Wings](recipes/ )
-* [Honey Soy Chicken Stir Fry](recipes/ )
-* [Korean Fire-Grilled Chicken](recipes/ )
+* [Honey Chicken](recipes/Honey_Chicken.md)
+* [Honey Glazed Roasted Chicken Wings](recipes/Honey_Glazed_Roasted_Chicken_Wings.md)
+* [Honey Soy Chicken Stir Fry](recipes/Honey_Soy_Chicken_Stir_Fry.md)
+* [Korean Fire-Grilled Chicken](recipes/Korean_Fire-Grilled_Chicken.md)
 * [Kung Pao Chicken](recipes/Kung_Pao_Chicken,md)
 * [Stir Fry Broccoli and Carrot with Chicken](recipes/Broccoli_Carrot_Chicken.md)
 * [Teriyaki Chicken Don](recipes/Teriyaki_Chicken_Don.md)
@@ -36,9 +36,3 @@
 * [Chinese Pork Skewers](recipes/Chinese_Pork_Skewers.md)
 * [Chili Chicken Skewers](recipes/Chili_Chicken_Skewers.md)
 * [Singapore Satay](recipes/Singapore_Satay.md)
-
-## Ingredients
-
-## PREP INGREDIENTS
-
-## MAKE SAUCE
