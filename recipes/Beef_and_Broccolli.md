@@ -1,4 +1,4 @@
-# Beef and Broccolli"
+# Beef and Broccolli
 
 Beef and broccoli is a popular and easy Chinese takeout dish. In this video, you will learn my techniques which will ensure your broccoli stays fresh and your beef turns out juicy and tender. Let’s get right into it.
 
