@@ -49,6 +49,8 @@ Trim off any excess skin or fat that you may want to remove. Cut the chicken int
 ### PREPARE VEGETABLES
 1. Cut the onion and bell peppers into bite-sized pieces.
 2. Finely chop the garlic cloves. Grate a small knob of ginger (1/2 tsp). Cut the green onions into 2-inch (5-cm) pieces and thinly slice some white parts of the green onions.Cut the green onions
+ * 1/2 yellow onion
+ * 2 cups red, yellow, and/or green bell peppers
 
 ### MAKE SAUCE
 Combine all the sauce ingredients in a small container and mix well. (If you want it to be more Thai-style, use a mix of golden mountain sauce and fish sauce instead of chicken bouillon powder.) Set aside.
