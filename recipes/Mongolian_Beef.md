@@ -13,8 +13,6 @@ Mongolian Beef is a Chinese dish that most Chinese people don’t even know abou
 * 1/3 tea spoon salt
 * 1/4 tea spoon baking soda
 * 1/2 tea spoon black pepper
-* 1/4 cup cornstarch (just enough to coat the beef)
-* 1.5 large egg white
 
 ## Sauce Ingredients
 * 2 tea spoo cornstarch
