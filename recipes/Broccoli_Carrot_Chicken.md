@@ -1,3 +1,5 @@
+# Broccoli Carrot Chicken
+
 * 300 grams of broccoli
 * 1/2 carrot
 * 3 minced cloves of garlic
@@ -15,13 +17,21 @@
 
 2) Thinly slice carrot.
 
-3) Thinly cut chicken to bite sized, add A pinch of salt and a pinch of black pepper and mix well.
+3) Thinly cut chicken to bite sized, add
+   * A pinch of salt
+   * a pinch of black pepper
+   mix well.
 
-4) In a little oil stir fry chicken for 2-3 minutes then add 3 minced cloves of garlic and salute for 20-30 seconds
+5) In a little oil stir fry chicken for 2-3 minutes then add 3 minced cloves of garlic and salute for 20-30 seconds
 
-5)Add broccoli and carrot stir fry for 2-3 minutes.
+6) Add broccoli and carrot stir fry for 2-3 minutes.
 
-6)Then add 1 tablespoon of light soy sauce 2 tablespoons of oyster sauce and 1/2 cup of water.
-7)Add 1/2 teaspoon of dark soy sauce.
+7) Then add
+   * 1 tablespoon of light soy sauce
+   * 2 tablespoons of oyster sauce
+   * 1/2 cup of water
+   * 1/2 teaspoon of dark soy sauce.
 
-8)once simmering add Corn starch slurry - 1 teaspoon of corn starch + 2-3 teaspoon of water. 
+8) once simmering add Corn starch slurry
+  * 1 teaspoon of corn starch
+  * 2-3 teaspoon of water. 
