@@ -1,28 +1,31 @@
-Teriyaki Chicken Don 
+# Teriyaki Chicken Don 
 
-INGREDIENT LIST Makes 2 SERVINGS
- 2 skinless Chicken Thigh Fillets 
-1 tbsp Soy Sauce 
-2 tbsp Mirin 
-2 tbsp Sake
-2 tsp Sugar 
-1 tsp Cornflour 
+## INGREDIENT LIST Makes 2 SERVINGS
+* 2 skinless Chicken Thigh Fillets 
+* 1 tbsp Soy Sauce
+* 2 tbsp Mirin
+* 2 tbsp Sake
+* 2 tsp Sugar
+* 1 tsp Cornflour 
 
-To Serve
-Rice 
-1/2 Tomato
-Mixed Salad
+## To Serve
+* Rice
+* 1/2 Tomato
+* Mixed Salad
 	
 
-Slice your chicken try not to slice your chicken to thin.
+1) Slice your chicken try not to slice your chicken to thin.
 
-Dust with 1 tsp Cornflour and massage in
+2) Dust with 1 tsp Cornflour and massage in
 
-Make Teriyaki source by combining.
-1 tbsp Soy Sauce, 2 tbsp Mirin, 2 tbsp Sake and 2 tsp Sugar
+3) Make Teriyaki source by combining.
+* 1 tbsp Soy Sauce
+* 2 tbsp Mirin
+* 2 tbsp Sake
+* 2 tsp Sugar
 
 
-Pre head med/high oil, lay in chicken for 2 minutes.
-Flip and cook for 2 minutes.
+3) Pre head med/high oil, lay in chicken for 2 minutes.
+4) Flip and cook for 2 minutes.
 
-Add in source and cooking for 2-3 minutes, that’s it.
+5) Add in source and cooking for 2-3 minutes, that’s it.
