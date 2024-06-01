@@ -31,6 +31,7 @@
 * [Kung Pao Chicken](recipes/Kung_Pao_Chicken,md)
 * [Stir Fry Broccoli and Carrot with Chicken](recipes/Broccoli_Carrot_Chicken.md)
 * [Teriyaki Chicken Don](recipes/Teriyaki_Chicken_Don.md)
+* [Thai Ginger Chicken](Thai_Ginger_Chicken.md)
 
 ## Stewers
 * [Chinese Pork Skewers](recipes/Chinese_Pork_Skewers.md)
