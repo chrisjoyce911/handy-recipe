@@ -1,26 +1,26 @@
 # Mongolian Ground Beef
 ## Ingredients
-# 5 green onions
-# 5 cloves garlic
-# 2.5 tsp (10g) grated ginger
-# 3 tbsp neutral-tasting oil, divided
-# 500g ground beef (or ground pork, chicken, etc.)
-# 1/2 tbsp toasted sesame oil
-# 3-4 cups hot cooked rice, about 1 cup (210g) for each serving
-# 5 Vietnamese dried chilies (optional)
-# 1/2 mild red chili (or bell pepper) (optional), to garnish
+* 5 green onions
+* 5 cloves garlic
+* 2.5 tsp (10g) grated ginger
+* 3 tbsp neutral-tasting oil, divided
+* 500g ground beef (or ground pork, chicken, etc.)
+* 1/2 tbsp toasted sesame oil
+* 3-4 cups hot cooked rice, about 1 cup (210g) for each serving
+* 5 Vietnamese dried chilies (optional)
+* 1/2 mild red chili (or bell pepper) (optional), to garnish
 
 ## Sauce
-# 3 tbsp soy sauce
-# 2 tbsp sugar
-# 1 tbsp oyster sauce
-# 1 tsp chicken bouillon powder
-# 1/2 tsp dark soy sauce
-# 1 tbsp light corn syrup
-# 2 tbsp Shaoxing wine (or mirin, dry sherry, water, etc.)
-# Black pepper, to taste
-# 5 tbsp water
-# 1 tbsp cornstarch
+* 3 tbsp soy sauce
+* 2 tbsp sugar
+* 1 tbsp oyster sauce
+* 1 tsp chicken bouillon powder
+* 1/2 tsp dark soy sauce
+* 1 tbsp light corn syrup
+* 2 tbsp Shaoxing wine (or mirin, dry sherry, water, etc.)
+* Black pepper, to taste
+* 5 tbsp water
+* 1 tbsp cornstarch
 
 ## PREP INGREDIENTS
 1. Thinly slice some white parts of the green onions. Cut the green parts into long strips, about 2 inches (5 cm) long. Keep them separately.
