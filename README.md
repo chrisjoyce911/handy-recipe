@@ -13,7 +13,7 @@
 * [Beef and Broccolli](recipes/Beef_and_Broccolli.md)
 * [Beef with Black Bean Sauce](recipes/Beef_with_Black_Bean_Sauce.md)
 * [Mongolian Beef](recipes/Mongolian_Beef.md)
-* [Mongolian Ground Beef](Mongolian_Ground_Beef.md)
+* [Mongolian Ground Beef](recipes/Mongolian_Ground_Beef.md)
 * [Moroccan beef kebabs](recipes/Moroccan_Beef_Kebabs.md)
 
 ## Pork
