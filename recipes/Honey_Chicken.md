@@ -1,42 +1,38 @@
 # Honey Chicken
 
-## Marinate chicken
-* 500g of boneless chicken thigh
-* 2 tablespoons of light soy sauce
-* 1.5 tablespoons of fresh ginger juice
-* 1/2 teaspoon of black pepper
-* 1 tablespoon of Chinese cooking wine / Shaoxing Huatiao wine
-* 1/2 tablespoon of sesame oil
-* 3 tablespoons of cornflour 
-* Prepare more cornflour for coating before deep-frying
+## Ingredients
+* 400 g Chicken Leg Meat, cut in bite-sizes
+* 1 tbsp Chinese Cooking Wine (Shaoxing Wine)
+* 1.5 tbsp Light Soy Sauce
+* 1 Egg White
+* 1 cup All-purpose Flour
+* 1/3 cup Cornstarch
+* Oil for frying
+* some chopped Green Onions
+* some toasted Sesame Seeds
 
-## Honey sauce
-* Some cooking oil
-* 1 thumb size ginger – julienne
-* 5 cloves of chopped garlic
-* 1/4 cup of water
-* 4 tablespoons of tomato ketchup
-* 2 tablespoons of honey
+## Honey Sauce
+* 1 Chicken Bouillon
+* 1/2 cup Water
+* 2 tbsp Chinese Cooking Wine (Shaoxing Wine)
+* 2 tbsp Rice Vinegar
+* 1 tbsp Light Soy Sauce
+* 3 tbsp Honey
+* 1/4 cup Brown Sugar
+* 1 tbsp Vegetable Oil
+* 3 Garlic Cloves, finely chopped
 
-## CHICKEN MARINATION
-1. Cut chicken into 2cm cubes
-2. Combine chicken with
-   * 2 tablespoons soy sauce
-   * 1.5 tablespoons of fresh ginger juice
-   * 1/2 teaspoon of black pepper
-   * 1 tablespoon of Chinese cooking wine
-   * 1/2 tablespoon of sesame oil
-   * 3 tablespoons of cornflour
-3. Let the chicken sit in the marinade for around 1 hour
+## Starch Water
+* 2 tsp Cornstarch
+* 2 tbsp Water
 
-## DOUBLE FRY
-1. Roll chicken cubes in cornflour and let sit for 15 minutes
-2. double fry the chicken and set aside"
+## Instructions
+1. In a large mixing bowl, mix together Chicken, Chinese Cooking Wine, Light Soy Sauce, and Egg White. Set aside to marinate for 10 – 15 minutes.
+2. In another bowl, combine Chicken Bouillon, Water, Chinese Cooking Wine, Rice Vinegar, Light Soy Sauce, Honey, and Brown Sugar. Set aside.
+3. In another large bowl, add in All-purpose Flour and Cornstarch, mix well. Then add in the Chicken pieces and the marinade. Use your hand to mix well the flour and the chicken to create an uneven coating. Shake off extra flour.
+4. In a wok, add in enough Oil for the Chicken pieces to float, on medium-high heat. Add the Chicken pieces one at a time into the hot oil. Fry the chicken in batches. Cook for 3-4 minutes until golden and cooked through. Drain on paper towel or a wire wrack.
+5. In a clean wok, add in the Vegetable Oil, on medium heat. Add the Garlic, and cook for about 15 seconds until fragrant. Then add the Honey Sauce mixture. Cook for 2-3 minutes until the Sugar has dissolved and the sauce starts to boil.
+6. Add in the Starch Water. Cook for 1-2 minutes until the sauce has thickened up slightly. Add in the fried Chicken pieces and toss well with the sauce. Make sure to coat the sauce evenly.
+7. Transfer to a serving plate or bowl. Drizzle with some extra Honey Sauce on top. Sprinkle with some chopped Green Onions and toasted Sesame Seeds. Ready to enjoy!
 
-## STIR FRY
-1. lighley fry the ginger and garlic for ths sauce
-2. combien the rest of the sauce (water ,tomato sauce and honey, and simmer till it thickens
-3. add in the chicken and mix, add a little sesame seeds and your ready to go
-        
-[link](https://www.spicenpans.com/honey-chicken/)
-[video](https://youtu.be/UvoleP1-_I0)
+[video](https://youtu.be/krGDmN6LT1c)
