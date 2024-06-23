@@ -7,7 +7,7 @@
 * [Chicken Bulgogi](recipes/Chicken_Bulgogi.md)
 * [Crispy Honey Chilli Chicken](recipes/Crispy_Honey_Chilli_Chicken.md)
 * [Teriyaki Chicken Don](recipes/Teriyaki_Chicken_Don.md)
-* [Pad Prik King](recipes/Pad_Prik_King.md)
+* [Honey Chicken](recipes/Honey_Chicken.md)
 
 ## Beef
 * [Beef Lo Mein](recipes/Beef_Lo_Mein.md)
@@ -35,6 +35,7 @@
 * [Teriyaki Chicken Don](recipes/Teriyaki_Chicken_Don.md)
 * [Thai Ginger Chicken](recipes/Thai_Ginger_Chicken.md)
 * [Pad Prik King](recipes/Pad_Prik_King.md)
+* [Air Fryer Teriyaki Chicken](recipes/Air_Fryer_Teriyaki_Chicken.md)
 
 ## Stewers
 * [Chinese Pork Skewers](recipes/Chinese_Pork_Skewers.md)
