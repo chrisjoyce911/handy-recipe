@@ -20,6 +20,7 @@
 ## Pork
 
 ## Chicken
+* [Maekjeok](recipes/Maekjeok.md)
 * [Cashew Chicken](recipes/Cashew_Chicken.md)
 * [Chicken Bulgogi](recipes/Chicken_Bulgogi.md)
 * [Chicken Stir Fry with Celery, Carrot and Cashew](recipes/Chicken_Stir_Fry_with_Celery_Carrot_Cashew.md)
