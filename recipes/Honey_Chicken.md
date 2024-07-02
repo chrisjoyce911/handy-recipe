@@ -1,5 +1,6 @@
 # Honey Chicken
 
+
 ## Ingredients
 * 400 g Chicken Leg Meat, cut in bite-sizes
 * 1 tbsp Chinese Cooking Wine (Shaoxing Wine)
@@ -69,5 +70,8 @@
 4. Add in the fried Chicken pieces and toss well with the sauce. Make sure to coat the sauce evenly.
 5. Transfer to a serving plate or bowl. Drizzle with some extra Honey Sauce on top.
 6. Sprinkle with some chopped Green Onions and toasted Sesame Seeds. Ready to enjoy!
+
+![Alt text](images/Honey_Chicken.jpeg?raw=true "Honey Chicken")
+
 
 [video](https://youtu.be/krGDmN6LT1c)

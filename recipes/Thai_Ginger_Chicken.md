@@ -48,3 +48,5 @@
 
 ## ASSEMBLE
 1. Serve the Gai Pad King over steamed jasmine rice 
+
+![Alt text](images/Thai_Ginger_Chicken.jpeg?raw=true "Thai Ginger Chicken")

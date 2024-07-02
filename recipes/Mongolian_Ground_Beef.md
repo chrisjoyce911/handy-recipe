@@ -33,3 +33,5 @@
 3. Add thicker parts of the green onions and dried chilies (if using). Stir them around for another 30 seconds. (If you want to make it more fancy or nutritious, you could also add some sliced bell peppers or button mushrooms, too.)
 4. Pour in the sauce. Simmer for 1 minute or until the sauce thickens up a little bit. Add the beef back in and mix together for 1 minute. Turn the heat off. Add the remaining green onions and sesame oil (1/2 tbsp). Give it a final mix.
 5. To serve, put some rice into a bowl and add a generous amount of Mongolian beef. Garnish with sliced red chili (if using). Enjoy!
+
+![Alt text](images/Mongolian_Ground_Beef.jpeg?raw=true "Mongolian Ground Beef")

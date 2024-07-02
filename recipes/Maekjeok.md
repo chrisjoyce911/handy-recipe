@@ -45,3 +45,5 @@
 ## Assemble
 1. To serve, divide the rice into serving bowls. Add a generous amount of maekjeok. Optionally, hit it with a blowtorch. 
 2. Add some chive salad and soft-boiled egg (if using). Finish with sesame seeds. Enjoy!
+
+![Alt text](images/Maekjeok.jpeg?raw=true "Maekjeok")
