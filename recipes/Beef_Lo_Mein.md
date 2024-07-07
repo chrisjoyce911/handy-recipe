@@ -31,7 +31,7 @@ I have made an Oyster Sauce Lo Mein recipe not so long ago. Even though it was a
 * 1/2 tbsp cornstarch
   
 ## Cook
-1.Bring a pot of water to a boil. Cook 2 portions of fresh egg noodles for 2-3 minutes. If you are using a different type of noodles, you have to follow the cooking instruction on the package.
+1. Bring a pot of water to a boil. Cook 2 portions of fresh egg noodles for 2-3 minutes. If you are using a different type of noodles, you have to follow the cooking instruction on the package.
 2. While waiting for the noodles, you should have enough time to cook the beef.
 3. First, turn the heat to maximum and heat the wok until it is smoking hot. Then add some oil. Be generous with oil amount for this recipe because you want enough oil to coat the noodles so they don’t stick together while serving.
 4. Give it a toss so the oil will create a slight non-stick surface on the bottom. Wait for the oil to be smoking again. That means the wok is hot enough for you to add the marinade beef. Stir and cook.
