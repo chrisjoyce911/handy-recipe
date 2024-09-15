@@ -8,6 +8,7 @@
 * [Crispy Honey Chilli Chicken](recipes/Crispy_Honey_Chilli_Chicken.md)
 * [Teriyaki Chicken Don](recipes/Teriyaki_Chicken_Don.md)
 * [Honey Chicken](recipes/Honey_Chicken.md)
+* [Mongolian Chicken](Mongolian_Chicken.md)
 
 ## Beef
 * [Beef Lo Mein](recipes/Beef_Lo_Mein.md)
@@ -21,6 +22,7 @@
 
 ## Chicken
 * [Maekjeok](recipes/Maekjeok.md)
+* [Mongolian Chicken](Mongolian_Chicken.md)
 * [Cashew Chicken](recipes/Cashew_Chicken.md)
 * [Chicken Bulgogi](recipes/Chicken_Bulgogi.md)
 * [Chicken Stir Fry with Celery, Carrot and Cashew](recipes/Chicken_Stir_Fry_with_Celery_Carrot_Cashew.md)
