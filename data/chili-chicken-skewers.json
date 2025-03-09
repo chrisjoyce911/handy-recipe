@@ -1,0 +1,79 @@
+{
+    "slug": "chili-chicken-skewers",
+    "title": "Chili Chicken Skewers",
+    "cover_image": "",
+    "description": "Chicken marinated in sweet chilli sauce and grilled using bamboo skewers makes a flavorful appetizer – perfect to serve a crowd.",
+    "overview": "Flavorful chili chicken skewers marinated in sweet chilli sauce, perfect for gatherings.",
+    "prep_time": "5 min.",
+    "cook_time": "5 min.",
+    "servings": "",
+    "tags": ["Chicken","Skewers"],
+    "ingredients": [
+      {
+        "title": "Marinade",
+        "content": [
+          "600gm Boneless skinless chicken thighs",
+          "1 1/2 cups sweet chili sauce",
+          "3 tablespoons soy sauce",
+          "2 tablespoons lemon juice",
+          "1 tablespoon garlic chili sauce",
+          "1 tablespoon vegetable oil",
+          "2 tablespoons Sriracha sauce"
+        ]
+      },
+      {
+        "title": "Main",
+        "content": [
+          "14 bamboo skewers (6 inch)",
+          "1/4 cup chopped fresh cilantro leaves, if desired"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1",
+        "content": [
+          "Soak bamboo skewers in water for 30 minutes."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2",
+        "content": [
+          "Cut chicken into 14 (1/2-inch) strips."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3",
+        "content": [
+          "In a resealable plastic bag, mix 1/4 cup of the sweet chili sauce with the remaining marinade ingredients (soy sauce, lemon juice, garlic chili sauce, vegetable oil, and Sriracha sauce). Add the chicken, seal the bag, and turn to coat evenly. Refrigerate for 30 minutes."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 4",
+        "content": [
+          "Remove the chicken from the marinade and discard the marinade. Thread the chicken onto the soaked skewers."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 5",
+        "content": [
+          "Cover the grill and cook the skewers for 10 minutes, turning once, until the chicken is no longer pink in the center."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 6",
+        "content": [
+          "Serve with the remaining sweet chili sauce and garnish with cilantro."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [],
+    "link": "https://www.bettycrocker.com/recipes/chili-chicken-skewers/fd502b01-0e5d-4d59-bba6-4e3073949931"
+  }
+  

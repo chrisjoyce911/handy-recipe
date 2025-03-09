@@ -1,0 +1,89 @@
+{
+    "slug": "crispy-honey-lemon-chicken",
+    "title": "Crispy Honey Lemon Chicken",
+    "cover_image": "",
+    "description": "Crispy Honey Lemon Chicken with lightly battered chicken tossed in classic Chinese style lemon sauce. It takes only 30 minutes to prepare and is much quicker than ordering from the takeaway! In this recipe, you’ll learn how to make a perfect sweet, savoury, tangy lemon chicken with our simple tips.",
+    "overview": "Lightly battered crispy chicken in a tangy, sweet lemon sauce.",
+    "prep_time": "30 min.",
+    "cook_time": "30 min.",
+    "servings": "",
+    "tags": ["Chicken"],
+    "ingredients": [
+      {
+        "title": "Stir Fry",
+        "content": [
+          "250 g Chicken breast or thigh, cut into small cubes",
+          "1 Egg",
+          "1 cup Potato/Corn starch",
+          "Cornstarch slurry: Corn flour 1/2 tsp + 1 tbsp water",
+          "Toasted sesame seeds",
+          "Oil for frying (vegetable or neutral flavour oil, canola, sunflower, etc.)"
+        ]
+      },
+      {
+        "title": "Marinate for Chicken",
+        "content": [
+          "1/4 tsp Baking soda",
+          "1 tsp Sesame Oil",
+          "1 tsp Light Soy Sauce or all-purpose soy sauce",
+          "1 tsp Ginger garlic paste (grated ginger and garlic)"
+        ]
+      },
+      {
+        "title": "Sauce mix",
+        "content": [
+          "1/2 cup Chicken Stock or water",
+          "1/2 tsp Salt",
+          "2 tbsp Honey or sugar",
+          "1 tsp Lemon zest",
+          "1 Lemon (~3 tbsp lemon juice)",
+          "3-4 slices Ginger, cut into thin strips"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Marinate Chicken",
+        "content": [
+          "Cut chicken into small bite-sized pieces.",
+          "Add baking soda, sesame oil, ginger garlic paste, and light soy sauce. Mix well and marinate for 15 minutes."
+        ],
+        "images": []
+      },
+      {
+        "title": "Prepare Sauce and Egg",
+        "content": [
+          "Cut ginger into thin slices. Squeeze lemon juice from one lemon and set aside.",
+          "Break one egg into the marinated chicken and mix well.",
+          "Add the potato/corn starch and coat the chicken; toss off any excess flour."
+        ],
+        "images": []
+      },
+      {
+        "title": "Fry Chicken",
+        "content": [
+          "Heat oil to high heat (about 350°F). Test with a wooden chopstick until bubbles fizz steadily.",
+          "Deep fry the coated chicken pieces for 2-3 minutes until crispy golden brown. Remove and set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Make Sauce",
+        "content": [
+          "Heat a wok, add all the ingredients from the sauce mix, and bring to a boil over medium-high heat."
+        ],
+        "images": []
+      },
+      {
+        "title": "Combine and Finish",
+        "content": [
+          "Add the fried chicken pieces to the wok and stir quickly over medium-high heat for a few seconds.",
+          "Add the corn starch and water mixture to the sauce and stir until the chicken pieces are glossy and well coated."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [],
+    "link": "https://khinskitchen.com/crispy-honey-lemon-chicken/"
+  }
+  

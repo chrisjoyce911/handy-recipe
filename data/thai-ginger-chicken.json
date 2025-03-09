@@ -1,0 +1,84 @@
+{
+    "slug": "thai-ginger-chicken",
+    "title": "Thai Ginger Chicken",
+    "cover_image": "/data/images/thai-ginger-chicken.jpg",
+    "description": "A delicious Thai ginger chicken stir-fry featuring marinated chicken tossed in a tangy, flavorful sauce with crisp vegetables.",
+    "overview": "Thai Ginger Chicken stir-fry with marinated chicken, aromatic ginger and garlic, and a tangy sauce.",
+    "prep_time": "10 min.",
+    "cook_time": "10 min.",
+    "servings": "2-3 servings",
+    "tags": ["Thai", "Chicken", "Stir Fry"],
+    "ingredients": [
+      {
+        "title": "Chicken Marination",
+        "content": [
+          "350g Boneless chicken thighs (or chicken breast)",
+          "1 1/2 tbsp Light Soy Sauce"
+        ]
+      },
+      {
+        "title": "The Sauce",
+        "content": [
+          "1 tsp sugar",
+          "1 tsp toasted sesame oil",
+          "1 tsp white pepper, to taste",
+          "1 tbsp dark soy sauce",
+          "2 tbsp Fermented soy bean paste (or Korean soybean paste)",
+          "2 tbsp oyster sauce",
+          "2 tbsp water"
+        ]
+      },
+      {
+        "title": "Stir Fry",
+        "content": [
+          "3 tbsp oil",
+          "4 cloves chopped garlic",
+          "4cm julienned ginger",
+          "1 onion, sliced",
+          "1 Spur Chilli, julienned",
+          "3 Spring Onions",
+          "8 Wood Ear Mushrooms, cut into small pieces (optional)"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1: Chicken Marination",
+        "content": [
+          "Cut the chicken into bite-sized pieces; remove the skin if desired.",
+          "Mix the chicken with 1 1/2 tbsp Light Soy Sauce and set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2: Make Sauce",
+        "content": [
+          "In a small bowl, combine 1 tsp sugar, 1 tsp toasted sesame oil, 1 tsp white pepper, 1 tbsp dark soy sauce, 2 tbsp fermented soy bean paste, 2 tbsp oyster sauce, and 2 tbsp water. Mix well and set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3: Stir Fry",
+        "content": [
+          "Heat 3 tbsp oil in a large skillet or wok over high heat.",
+          "Stir-fry the garlic and red (spur) chili for 30 seconds.",
+          "Add the marinated chicken and stir-fry until fully cooked, about 5-10 minutes.",
+          "Add the ginger and stir-fry for an additional 2-3 minutes.",
+          "Pour the prepared sauce over the chicken and stir-fry until the sauce is evenly distributed, about 2-3 minutes.",
+          "Add the wood ear mushrooms and onion, and stir-fry for an additional 3-4 minutes.",
+          "Stir-fry the spur chilies for 1 minute, then add the spring onions and give the dish a final mix."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 4: Assemble",
+        "content": [
+          "Serve the Thai Ginger Chicken over steamed jasmine rice."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [],
+    "link": ""
+  }
+  

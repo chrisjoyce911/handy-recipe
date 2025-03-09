@@ -1,0 +1,58 @@
+{
+  "slug": "singapore-satay",
+  "title": "Singapore Satay",
+  "cover_image": "",
+  "description": "A delicious Asian satay marinade and sauce for chicken and beef.",
+  "overview": "A savory satay marinade with bold flavors from red onion, garlic, lemongrass, and warm spices – perfect for marinating thin chicken breasts.",
+  "prep_time": "0 min.",
+  "cook_time": "0 min.",
+  "servings": "",
+  "tags": ["Chicken","Skewers"],
+  "ingredients": [
+    {
+      "title": "Marinade",
+      "content": [
+        "1 large red onion, chopped",
+        "2 large garlic cloves, chopped",
+        "3 stalks lemon grass, chopped",
+        "½ cup soy sauce",
+        "1 tablespoon peanut oil",
+        "1 tablespoon ground turmeric",
+        "1½ tablespoon brown sugar",
+        "1 tablespoon ground cumin",
+        "1 tablespoon ground ginger",
+        "1 pound skinless boneless chicken breast halves - pounded thin",
+        "Salt and black pepper, to taste"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "title": "Step 1",
+      "content": [
+        "In a large nonreactive bowl, stir together the red onion, garlic, lemon grass, soy sauce, peanut oil, turmeric, brown sugar, cumin, ginger, salt, and pepper.",
+        "Reserve about 2 tablespoons of this marinade in a small bowl and refrigerate until cooking time.",
+        "Add the chicken breasts to the remaining marinade, toss to coat well, and marinate in the refrigerator overnight."
+      ],
+      "images": []
+    },
+    {
+      "title": "Step 2",
+      "content": [
+        "About 30 minutes before serving, soak the bamboo skewers in water. Preheat an outdoor grill for high heat and lightly oil the grate."
+      ],
+      "images": []
+    },
+    {
+      "title": "Step 3",
+      "content": [
+        "Remove the chicken from the bowl and discard the used marinade.",
+        "Cut each chicken breast diagonally into 6 long strips, then thread each strip onto a soaked skewer.",
+        "Grill the skewers, turning frequently and basting with the reserved marinade, until the chicken is cooked through with brown, crispy edges (approximately 5 to 8 minutes per skewer)."
+      ],
+      "images": []
+    }
+  ],
+  "notes": [],
+  "link": "https://www.allrecipes.com/recipe/201914/singapore-satay/"
+}

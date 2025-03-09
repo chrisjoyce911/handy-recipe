@@ -1,0 +1,84 @@
+{
+    "slug": "teriyaki-chicken-don",
+    "title": "Teriyaki Chicken Don",
+    "cover_image": "/data/images/teriyaki-chicken-don.jpg",
+    "description": "A simple teriyaki chicken don dish with succulent chicken thighs in a homemade teriyaki sauce served over rice with tomato and salad.",
+    "overview": "Flavorful teriyaki chicken don with marinated chicken, glossy teriyaki sauce, and fresh accompaniments.",
+    "prep_time": "10 min.",
+    "cook_time": "7 min.",
+    "servings": "2 servings",
+    "favorite": true,
+    "tags": ["Chicken"],
+    "ingredients": [
+      {
+        "title": "Main",
+        "content": [
+          "2 skinless Chicken Thigh Fillets",
+          "1 tbsp Soy Sauce",
+          "2 tbsp Mirin",
+          "2 tbsp Sake",
+          "2 tsp Sugar",
+          "1 tsp Cornflour"
+        ]
+      },
+      {
+        "title": "To Serve",
+        "content": [
+          "Rice",
+          "1/2 Tomato",
+          "Mixed Salad"
+        ]
+      },
+      {
+        "title": "Teriyaki Sauce",
+        "content": [
+          "1 tbsp Soy Sauce",
+          "2 tbsp Mirin",
+          "2 tbsp Sake",
+          "2 tsp Sugar"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1: Prep Chicken",
+        "content": [
+          "Slice the chicken (try not to slice too thin).",
+          "Dust with 1 tsp cornflour and massage well to coat."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2: Make Teriyaki Sauce",
+        "content": [
+          "In a bowl, combine 1 tbsp soy sauce, 2 tbsp mirin, 2 tbsp sake, and 2 tsp sugar. Set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3: Fry Chicken",
+        "content": [
+          "Preheat medium-high oil in a pan. Fry the chicken for 2 minutes on one side.",
+          "Flip and fry for another 2 minutes."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 4: Add Sauce",
+        "content": [
+          "Pour the prepared teriyaki sauce over the chicken and cook for 2-3 minutes until the sauce thickens and evenly coats the chicken."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 5: Assemble",
+        "content": [
+          "Serve the chicken over rice and garnish with 1/2 tomato and a mixed salad."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [],
+    "link": ""
+  }
+  

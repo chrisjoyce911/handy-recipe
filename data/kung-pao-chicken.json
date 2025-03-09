@@ -1,0 +1,95 @@
+{
+    "slug": "kung-pao-chicken",
+    "title": "Kung Pao Chicken",
+    "cover_image": "/data/images/kung-pao-chicken.jpg",
+    "description": "A classic Kung Pao Chicken with spicy, tangy flavors, featuring marinated chicken stir-fried with zucchini, aromatics, chili, and roasted peanuts.",
+    "overview": "A spicy, tangy Kung Pao Chicken with roasted peanuts and vibrant vegetables.",
+    "prep_time": "10 min.",
+    "cook_time": "15 min.",
+    "servings": "4 servings",
+    "tags": ["Chicken", "Chinese"],
+    "ingredients": [
+      {
+        "title": "Zucchini",
+        "content": [
+          "224 g zucchini",
+          "1/4 tsp salt",
+          "1/4 tsp sugar",
+          "1 tsp rice wine"
+        ]
+      },
+      {
+        "title": "Chicken & Marinade",
+        "content": [
+          "450 g chicken, cut into bite-sized pieces",
+          "3 tsp soy sauce",
+          "1/2 tsp sugar",
+          "1/4 tsp white pepper powder",
+          "6 tsp corn starch",
+          "1 1/4 tsp baking soda",
+          "2 tsp rice wine",
+          "1 tbsp water",
+          "1 tbsp oil"
+        ]
+      },
+      {
+        "title": "Stir Fry Extras",
+        "content": [
+          "4 cloves garlic, minced",
+          "5 slices ginger, minced",
+          "4 stalks green onion, chopped",
+          "10 dried whole chilies",
+          "1 tsp chili flakes",
+          "1 tbsp rice wine",
+          "1 tbsp soy sauce",
+          "2 tsp dark soy sauce",
+          "1 1/2 tsp sugar",
+          "1/2 tsp paprika",
+          "1 tbsp rice vinegar",
+          "3/4 cup water",
+          "1/4 tsp white pepper powder",
+          "1/2 cup roasted peanuts"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1",
+        "content": [
+          "Prepare aromatics: Mince 4 cloves of garlic, mince 5 slices of ginger, chop 4 stalks of green onion, and cut the zucchini into large dice-sized pieces."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2",
+        "content": [
+          "Marinate the chicken: Cut chicken into bite-sized pieces and combine with soy sauce, sugar, white pepper powder, corn starch, baking soda, rice wine, and water. Mix well, then add oil."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3",
+        "content": [
+          "Stir fry the zucchini: Heat some oil in a pan over medium heat. Add zucchini and toss them. Season with 1/4 tsp salt and 1/4 tsp sugar, then add rice wine and cook until the wine cooks off. Remove the zucchini and set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 4",
+        "content": [
+          "Stir fry the chicken: If needed, add oil to the pan. Sauté the minced garlic, ginger, and chopped green onion until fragrant (about 10-20 seconds), then add 1 tsp chili flakes and the dried whole chilies. Add the marinated chicken and spread it out until golden on the bottom. Stir fry until the chicken is about half-cooked. Add 1 tbsp rice wine and continue cooking until the wine cooks off. Then add 1 tbsp soy sauce, 2 tsp dark soy sauce, 1 1/2 tsp sugar, 1/2 tsp paprika, and 1 tbsp rice vinegar. Stir fry until the color is even, then add 3/4 cup water."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 5",
+        "content": [
+          "Finish: When the sauce starts to thicken, add the reserved zucchini, 1/4 tsp white pepper powder, and 1/2 cup roasted peanuts. Toss everything together until well combined."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [],
+    "link": ""
+  }
+  

@@ -1,0 +1,67 @@
+{
+    "slug": "honey-soy-chicken-stir-fry",
+    "title": "Honey Soy Chicken Stir Fry",
+    "cover_image": "",
+    "description": "Honey Soy Chicken Stir Fry",
+    "overview": "A delicious stir fry with chicken, vegetables, and a sweet, tangy honey soy sauce.",
+    "prep_time": "0 min.",
+    "cook_time": "0 min.",
+    "servings": "",
+    "tags": ["Chicken"],
+    "ingredients": [
+      {
+        "title": "Sauce",
+        "content": [
+          "1/3 cup Soy sauce",
+          "2 tsp Cornflour",
+          "1/4 cup Water",
+          "1/3 cup Honey",
+          "1 tbsp Grated ginger"
+        ]
+      },
+      {
+        "title": "Main",
+        "content": [
+          "500 g Chicken breast or thigh fillets",
+          "1 Large carrot, thinly sliced",
+          "2 cups Broccoli florets, halved",
+          "1 cup Red capsicum, cut into strips",
+          "4 Green onions, sliced",
+          "3 cloves Garlic, crushed"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1",
+        "content": [
+          "Place cornflour in a jug. Gradually blend with water. Add soy sauce, honey, and ginger, and stir to combine. Set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2",
+        "content": [
+          "To cook the rice, massage the pouch to separate the grains and microwave according to the package instructions. Set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3",
+        "content": [
+          "Heat oil in a large non-stick frying pan or wok over high heat. Add chicken and stir-fry for 2 minutes. Reduce the heat slightly, then add carrot, broccoli, and capsicum; stir-fry for another 3 minutes. Finally, add green onions and garlic and stir-fry for an additional minute."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 4",
+        "content": [
+          "Stir the honey soy mixture from Step 1, then add it to the frying pan. Simmer for 2 minutes, stirring until the chicken is cooked through and the vegetables are tender-crisp. Serve with rice and garnish with extra green onions."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [],
+    "link": "https://www.sunrice.com.au/rice-recipes/honey-soy-chicken-stir-fry/"
+  }
+  

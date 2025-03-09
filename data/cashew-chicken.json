@@ -1,0 +1,98 @@
+{
+    "slug": "cashew-chicken",
+    "title": "Cashew Chicken",
+    "cover_image": "/data/images/cashew-chicken.jpg",
+    "description": "Cashew Chicken is one of the most popular takeout dishes of all time. It’s quick, nutritionally balanced, and budget-friendly.",
+    "overview": "Quick, budget-friendly cashew chicken with a savory sauce and crunchy cashews.",
+    "prep_time": "15 min.",
+    "cook_time": "15 min.",
+    "servings": "4 servings",
+    "tags": ["Chicken"],
+    "ingredients": [
+      {
+        "title": "Stir Fry",
+        "content": [
+          "450g boneless, skin-on chicken thighs (or chicken breasts)",
+          "1/2 yellow onion",
+          "2 cups red, yellow, and/or green bell peppers",
+          "4 cloves garlic",
+          "1/2 tsp (2g) grated ginger",
+          "3 green onions, divided",
+          "2 tbsp neutral-tasting oil",
+          "1/2 cup (75g) unsalted raw (or roasted) cashews",
+          "3-4 cups hot cooked rice, to serve"
+        ]
+      },
+      {
+        "title": "Marinade",
+        "content": [
+          "1/2 tbsp soy sauce",
+          "1/2 tbsp Shaoxing wine (or mirin, dry sherry, water, etc.)",
+          "1/4 tsp white pepper (or black pepper)",
+          "1/2 tsp baking soda",
+          "1 tbsp cornstarch",
+          "1 tbsp neutral oil (such as grape seed, canola, vegetable oil)"
+        ]
+      },
+      {
+        "title": "Stir Fry Sauce",
+        "content": [
+          "1 tbsp soy sauce",
+          "1 tbsp oyster sauce",
+          "1/2 tsp dark soy sauce (optional, for color)",
+          "1 tbsp sugar",
+          "1/4 tsp white pepper (or black pepper)",
+          "1 tsp toasted sesame oil",
+          "4 tbsp water",
+          "1 tbsp cornstarch",
+          "1 tbsp chicken bouillon powder (or a mix of golden mountain sauce and fish sauce)"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Marinate Chicken",
+        "content": [
+          "Trim off any excess skin or fat from the chicken.",
+          "Cut the chicken into bite-sized pieces and transfer to a mixing bowl.",
+          "Add all the marinade ingredients and massage the chicken well.",
+          "Set aside to marinate."
+        ],
+        "images": []
+      },
+      {
+        "title": "Prepare Vegetables",
+        "content": [
+          "Cut the onion and bell peppers into bite-sized pieces.",
+          "Finely chop the garlic cloves and grate a small knob of ginger (about 1/2 tsp).",
+          "Cut the green onions into 2-inch pieces and thinly slice the white parts."
+        ],
+        "images": []
+      },
+      {
+        "title": "Make Sauce",
+        "content": [
+          "Combine all the stir fry sauce ingredients in a small container and mix well.",
+          "Set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Make Cashew Chicken",
+        "content": [
+          "Roast the cashews: In a large wok or pan, heat 2 tbsp oil over medium heat. Once hot, add the cashews and roast for 2 to 3 minutes until deep dark brown. Remove the cashews, leaving the oil behind.",
+          "Cook the chicken: Increase the heat to high and add the marinated chicken to the same wok. Spread it out and sear for 1 to 2 minutes on the bottom until golden brown, then flip and cook for another 2 to 3 minutes until cooked through. Remove the chicken and set aside.",
+          "Sauté aromatics: Lower the heat to medium. In the remaining chicken fat, add the garlic, ginger, and white parts of the green onions. Sauté for about 1 minute until fragrant. (If needed, add 1–2 tbsp additional oil.)",
+          "Stir-fry vegetables: Increase the heat to high. Add the onion and bell peppers and stir-fry for 1 minute. Then add the chicken back to the wok and toss together for 30 seconds.",
+          "Finish: Give the prepared stir fry sauce a quick stir and add it to the wok. Stir everything until the sauce thickens, then turn off the heat. Add the remaining green onions and roasted cashews, and give it a final mix."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [
+      "Taste and adjust the seasoning, as different brands of sauces vary in saltiness.",
+      "If using chicken breast instead of thighs, you may need to add extra oil during aromatics sautéing."
+    ],
+    "link": "https://aaronandclaire.com/easy-cashew-chicken/"
+  }
+  

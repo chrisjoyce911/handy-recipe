@@ -1,0 +1,65 @@
+{
+  "slug": "crispy-honey-chilli-chicken",
+  "title": "Crispy Honey Chilli Chicken",
+  "cover_image": "",
+  "description": "Crispy chicken strips tossed in a sweet and spicy honey chilli sauce for a burst of flavor.",
+  "overview": "Crispy chicken in a sweet and spicy honey chilli sauce.",
+  "prep_time": "20 min.",
+  "cook_time": "15 min.",
+  "servings": "4 servings",
+  "tags": ["Chicken"],
+  "ingredients": [
+    {
+      "title": "Ingredients",
+      "content": [
+        "525g chicken breast (cut into thin strips)",
+        "1.5 egg white",
+        "1.5 cups corn starch",
+        "1.5 tbsp garlic (finely chopped)",
+        "3 tsp oil",
+        "Additional oil for frying"
+      ]
+    },
+    {
+      "title": "Chicken Marinade",
+      "content": [
+        "1.5 tbsp light soy sauce",
+        "1.5 tsp garlic paste (or finely grated garlic)",
+        "1.5 tsp sesame oil",
+        "3 tsp sugar",
+        "0.75 tsp white pepper (or black pepper)"
+      ]
+    },
+    {
+      "title": "Chilli Sauce Mixture",
+      "content": [
+        "4.5 tbsp Sriracha sauce (or hot chilli sauce)",
+        "3 tbsp tomato ketchup",
+        "3 tbsp honey (or sugar)",
+        "1.5 tbsp lime juice",
+        "0.38 tsp chilli flakes (optional)"
+      ]
+    },
+    {
+      "title": "Garnish",
+      "content": [
+        "1.5 red chili pepper (thinly sliced)",
+        "3 spring onions (thinly sliced)"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "title": "Instructions",
+      "content": [
+        "Cut the chicken into thin strips. In a bowl, marinate with soy sauce, sesame oil, garlic paste, sugar, and pepper for 10-15 minutes.",
+        "Add the egg white and coat the chicken with corn starch; shake off any excess.",
+        "Deep fry the chicken in pre-heated oil at 350°F for 1-2 minutes until light brown. Remove and let rest for 4-5 minutes, then fry again for another 2-3 minutes until crispy golden.",
+        "In a wok or pan, heat 2 tsp oil and quickly sauté the chopped garlic. Pour in the chilli sauce mixture and stir briefly.",
+        "Return the fried chicken to the wok, tossing to coat evenly with the sauce.",
+        "Turn off the heat, sprinkle the fresh chilli slices and spring onions, then serve immediately."
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+    "slug": "chicken-bulgogi",
+    "title": "Chicken Bulgogi",
+    "cover_image": "",
+    "description": "Chicken Bulgogi is a popular Korean dish featuring tender chicken in a savory, slightly spicy bulgogi sauce, served with a refreshing chili pepper salad.",
+    "overview": "A flavorful Korean chicken bulgogi with a tangy sauce and spicy chili pepper salad.",
+    "prep_time": "10 min.",
+    "cook_time": "15 min.",
+    "servings": "4 servings",
+    "favorite": true,
+    "tags": ["Chicken","Korean"],
+    "ingredients": [
+      {
+        "title": "Ingredients",
+        "content": [
+          "1-2 green onions",
+          "4 cloves garlic, divided",
+          "600g boneless chicken thighs (or chicken breast)",
+          "1-2 Vietnamese dried chilies (or peperoncino, Thai chili)",
+          "1 tbsp neutral-tasting oil",
+          "1 tsp toasted sesame oil",
+          "8 mild chilies (Oi-gochu) (or bell pepper, cucumber), about 200g in total",
+          "3-4 cups hot cooked rice (about 1 cup per serving)",
+          "Generous pinch of toasted sesame seeds, to garnish"
+        ]
+      },
+      {
+        "title": "Bulgogi Sauce",
+        "content": [
+          "3 cloves minced garlic",
+          "2 tbsp soy sauce",
+          "1.5 tbsp oyster sauce",
+          "1 tbsp sugar",
+          "1 tbsp light corn syrup",
+          "2 tbsp mirin",
+          "1/2 tsp dark soy sauce (optional)",
+          "1/2 tbsp cornstarch",
+          "Black pepper, to taste"
+        ]
+      },
+      {
+        "title": "Salad Dressing",
+        "content": [
+          "2.5 tbsp Korean soybean paste (doenjang)",
+          "1 tbsp Korean chili pepper flakes (gochugaru) - Optional",
+          "1/2 tbsp minced garlic",
+          "2 tbsp light corn syrup",
+          "1 tbsp toasted sesame oil",
+          "1/2 tbsp toasted (ground) sesame seeds"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "PREP INGREDIENTS",
+        "content": [
+          "Thinly slice the green onions, separating the whites from the greens, and finely chop the garlic cloves.",
+          "Cut the chicken into bite-sized pieces. Remove the skin if preferred."
+        ],
+        "images": []
+      },
+      {
+        "title": "MAKE SAUCE",
+        "content": [
+          "In a small container, combine 3 cloves of minced garlic with 2 tbsp soy sauce, 1.5 tbsp oyster sauce, 1 tbsp sugar, 1 tbsp light corn syrup, 2 tbsp mirin, 1/2 tsp dark soy sauce (if using), 1/2 tbsp cornstarch, and a dash of black pepper.",
+          "Tear 1 or 2 dried chilies into pieces and add them. Mix well."
+        ],
+        "images": []
+      },
+      {
+        "title": "MAKE CHICKEN BULGOGI",
+        "content": [
+          "Heat 1 tbsp of oil in a large pan over medium-high heat. (If using chicken with skin, you can skip the extra oil and place the chicken skin side down.) Once the pan is hot, add the marinated chicken and cook for 6–7 minutes until it starts to brown.",
+          "Add the white parts of the green onions and sauté for 30 seconds until fragrant.",
+          "Reduce the heat to medium and pour in the prepared sauce. Stir for 1–2 minutes until the sauce thickens and the chicken is well coated.",
+          "Turn off the heat, add 1 tsp toasted sesame oil, toss gently, and set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "MAKE CHILI PEPPER SALAD",
+        "content": [
+          "Cut the mild chilies into bite-sized pieces; remove seeds if desired, and transfer to a mixing bowl.",
+          "In a medium bowl, mix together the Korean soybean paste, Korean chili pepper flakes, 1/2 tbsp minced garlic, 2 tbsp light corn syrup, 1 tbsp toasted sesame oil, and 1/2 tbsp toasted sesame seeds. Pour over the chopped chilies and toss well."
+        ],
+        "images": []
+      },
+      {
+        "title": "ASSEMBLE",
+        "content": [
+          "Divide the hot cooked rice among serving bowls.",
+          "Add a generous portion of the chicken bulgogi and a side of the chili pepper salad.",
+          "Garnish with the green parts of the sliced green onions and an extra sprinkle of toasted sesame seeds if desired."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [],
+    "link": ""
+  }
+  

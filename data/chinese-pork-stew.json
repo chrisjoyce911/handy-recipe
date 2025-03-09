@@ -1,0 +1,102 @@
+{
+    "slug": "chinese-pork-stew",
+    "title": "Chinese Pork Stew",
+    "cover_image": "https://girleatsworld.co.uk/wp-content/uploads/2013/01/Rick-Stein-Chinese-stew-rice-pak-choi.jpg.webp",
+    "description": "An easy peasy, super tasty & aromatic meal which is actually very easy to make.",
+    "overview": "A super tasty and aromatic Chinese pork stew, perfect for a comforting meal.",
+    "prep_time": "5 min.",
+    "cook_time": "50 min.",
+    "servings": "",
+    "tags": ["Pork", "Stew", "Chinese"],
+    "ingredients": [
+      {
+        "title": "Marinade",
+        "content": [
+          "2 tbsp dark soy sauce",
+          "2 tbsp sweet soy sauce"
+        ]
+      },
+      {
+        "title": "Main",
+        "content": [
+          "500g pork, diced.",
+          "1 large white onion, sliced into strands",
+          "A glug of sesame oil",
+          "2 tbsp Chinese rice wine",
+          "1 tbsp honey",
+          "1.5 tsp grated/pureed ginger",
+          "2 tsp five spice",
+          "Black pepper, to taste",
+          "2.5cm stick cinnamon",
+          "1 clove garlic",
+          "2 tbsp grated ginger",
+          "2 tbsp five spice",
+          "1 clove",
+          "1 dried tangerine peel"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1",
+        "content": [
+          "Add your pork to a bowl and pour the soy sauces over. Leave to marinate for an hour or two."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2",
+        "content": [
+          "Heat your oven to 160°C."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3",
+        "content": [
+          "On the hob in a large pot, heat up a good glug of sesame oil and, once hot, add the onions. When tender but not fully softened, add the pork."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 4",
+        "content": [
+          "As the pork fries, add the five spice, garlic, ginger, honey, and black pepper."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 5",
+        "content": [
+          "Once the pork is cooked, add the rice wine and a cup of water along with the clove, tangerine peel, and cinnamon. Let it simmer for 5 minutes."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 6",
+        "content": [
+          "Place the pot in the oven and let it caramelise and reduce down for 40 minutes."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 7",
+        "content": [
+          "Remove the cinnamon, tangerine peel, and clove, and serve your stew with rice and pak choi."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [
+      {
+        "order": 1,
+        "note": "The tangerine peel can be prepared by leaving some peel out for a few hours, or baking it on very low heat for an hour."
+      },
+      {
+        "order": 2,
+        "note": "Don’t forget to remove the clove! It’s very easy to forget and hard to find again, and biting into a clove is not a pleasant experience."
+      }
+    ],
+    "link": "https://japan.recipetineats.com/chicken-stir-fry-celery-carrot-cashew/"
+  }
+  

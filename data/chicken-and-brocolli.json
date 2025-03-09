@@ -1,0 +1,107 @@
+{
+    "slug": "chicken-and-brocolli",
+    "title": "Chicken and Brocolli",
+    "cover_image": "/data/images/chicken-and-brocolli.jpg",
+    "description": "Chicken and broccoli is a super healthy dish and it is so easy to make. I toasted the broccoli first so the vegetable has a lot of flavors, and the chicken is tender and savory.",
+    "overview": "A super healthy and flavorful dish featuring tender, marinated chicken and toasted broccoli with a savory sauce.",
+    "prep_time": "5 min.",
+    "cook_time": "5 min.",
+    "servings": "",
+    "tags": ["Chicken"],
+    "ingredients": [
+      {
+        "title": "Marinade",
+        "content": [
+          "350 gram chicken breast",
+          "1 tablespoon soy sauce",
+          "1 tablespoon water",
+          "2 tablespoon corn starch",
+          "1/2 egg white"
+        ]
+      },
+      {
+        "title": "Vegetables",
+        "content": [
+          "2 cups broccoli",
+          "1 cup carrot slices"
+        ]
+      },
+      {
+        "title": "Sauce",
+        "content": [
+          "2 teaspoon cornflour/corn starch",
+          "1 teaspoon grated ginger",
+          "1 teaspoon grated garlic",
+          "1/2 teaspoon white pepper",
+          "2 tablespoon soy sauce",
+          "1 tablespoon oyster sauce",
+          "1 tablespoon brown sugar",
+          "1/2 cup chicken stock",
+          "1 teaspoon dark soy sauce"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1",
+        "content": [
+          "Cut the chicken breast into thin slices."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2",
+        "content": [
+          "Marinate the chicken with 1 tbsp soy sauce, 1 tbsp water, 1/2 egg white, and 2 tbsp corn starch."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3",
+        "content": [
+          "Massage the chicken for another 5 minutes until you feel it becomes velvety—this starchy layer locks in the juiciness."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 4",
+        "content": [
+          "Let the chicken sit for about 20 minutes while you prepare the sauce. In a small bowl, mix together 2 tsp of cornflour, 1/2 tsp white pepper, 2 tbsp soy sauce, 1 tbsp oyster sauce, 1 tbsp brown sugar, 1 tsp grated ginger, 1 tsp grated garlic, 1/2 cup chicken stock, and 1 tsp dark soy sauce. Set the sauce aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 5",
+        "content": [
+          "Prepare the vegetables by cutting the broccoli into bite-sized pieces and slicing the carrot thinly."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 6",
+        "content": [
+          "Toast the vegetables in a hot pan. Turn the cut side of the broccoli and carrot face down and sear for about 2 minutes; then flip and sear the other side until you achieve a roasted color. Set the vegetables aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 7",
+        "content": [
+          "Turn the heat to maximum and add about 2 tbsp of oil. When the oil is very hot, add the marinated chicken, making sure each piece touches the pan. Fry for 1-2 minutes until nicely browned on the bottom, then flip and fry the other side.",
+          "Once the chicken is cooked on both sides, add the toasted broccoli and carrot back into the pan, toss, and then pour in the prepared sauce. Toss everything together until the chicken and vegetables are well coated."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 8",
+        "content": [
+          "Check the consistency of the sauce. When every piece of chicken and vegetable is coated and the sauce has thickened slightly, remove from heat.",
+          "Serve immediately with white rice."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [],
+    "link": "https://soupeduprecipes.com/chicken-and-brocolli/"
+  }
+  

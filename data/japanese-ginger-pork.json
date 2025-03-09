@@ -1,0 +1,70 @@
+{
+  "slug": "japanese-ginger-pork",
+  "title": "Japanese Ginger Pork",
+  "cover_image": "/data/images/japanese-ginger-pork.jpg",
+  "description": "A savory dish featuring thinly sliced pork coated in a tangy ginger sauce, paired with crisp vegetables.",
+  "overview": "Thinly sliced pork in a tangy ginger sauce with crisp veggies.",
+  "prep_time": "20 min.",
+  "cook_time": "15 min.",
+  "servings": "4 servings",
+  "favorite": true,
+  "tags": ["Pork"],
+  "ingredients": [
+    {
+      "title": "Ingredients",
+      "content": [
+        "1 knob of ginger (about 1 tablespoon grated)",
+        "1/2 yellow onion",
+        "1/4 head green cabbage",
+        "350g thinly sliced pork loin",
+        "Black pepper, to taste",
+        "2 tbsp potato starch",
+        "3 tbsp neutral-tasting oil",
+        "Kosher salt, to taste",
+        "Handful of shishito peppers (optional)",
+        "Handful of cherry tomatoes (optional)",
+        "Steamed rice, to serve"
+      ]
+    },
+    {
+      "title": "Ginger Sauce",
+      "content": [
+        "3 tbsp soy sauce",
+        "3 tbsp mirin",
+        "3 tbsp sake (or dry sherry)",
+        "2 tsp sugar",
+        "1 tbsp water"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "title": "Prep Vegetables",
+      "content": [
+        "Slice the onion into 1/4-inch thick slices.",
+        "Thinly slice the cabbage; soak in cold water for 1-2 minutes to remove bitterness, then drain."
+      ],
+      "images": []
+    },
+    {
+      "title": "Prep Pork",
+      "content": [
+        "Thinly slice the pork loin and make a few slashes along each edge to prevent curling.",
+        "Season with black pepper (and a little salt if needed).",
+        "Lightly coat with potato starch."
+      ],
+      "images": []
+    },
+    {
+      "title": "Cook Japanese Ginger Pork",
+      "content": [
+        "In a large pan, heat 1 tbsp oil over medium-high heat and sauté the sliced onions until softened and browned; remove and set aside.",
+        "In the same pan, add another tablespoon of oil. Working in batches, add pork slices in a single layer and fry for 1-2 minutes per side until no longer pink. Avoid overcrowding.",
+        "Lower the heat to medium, return the pork and onions to the pan, stir the ginger sauce, and pour it in. Simmer for 2-3 minutes, occasionally flipping the pork.",
+        "Optionally, grill shishito peppers to use as garnish.",
+        "Plate the pork over a bed of shredded cabbage, garnish with peppers and cherry tomatoes, drizzle with extra sauce, and serve with steamed rice."
+      ],
+      "images": ["/data/images/japanese-ginger-pork-cooking.jpg"]
+    }
+  ]
+}

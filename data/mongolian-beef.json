@@ -1,0 +1,79 @@
+{
+    "slug": "mongolian-beef",
+    "title": "Mongolian Beef",
+    "cover_image": "/data/images/mongolian-beef.jpg",
+    "description": "Mongolian Beef is a Chinese dish that most Chinese people don’t even know about.",
+    "overview": "A lesser-known Chinese dish featuring tender beef in a rich, sweet, and savory sauce.",
+    "prep_time": "30 min.",
+    "cook_time": "10 min.",
+    "servings": "",
+    "favorite": true,
+    "tags": ["Beef", "Chinese"],
+    "ingredients": [
+      {
+        "title": "Stir Fry Ingredients",
+        "content": [
+          "1 tbsp minced ginger",
+          "1 1/2 tbsp minced garlic",
+          "1 bunch spring onion (use white part for stir-fry, reserve green part for garnish)"
+        ]
+      },
+      {
+        "title": "Marinade Ingredients",
+        "content": [
+          "14 oz beef, cut into 5mm thick pieces",
+          "2 tbsp Chinese cooking wine",
+          "1/3 tsp salt",
+          "1/4 tsp baking soda",
+          "1/2 tsp black pepper"
+        ]
+      },
+      {
+        "title": "Sauce Ingredients",
+        "content": [
+          "2 tsp cornstarch",
+          "1 tbsp oyster sauce",
+          "3 tbsp soy sauce",
+          "3 tbsp brown sugar",
+          "2/3 cup water",
+          "1/2 tsp ark soy sauce"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1: Prep Ingredients",
+        "content": [
+          "Slice the beef into 5mm thick pieces and mix with 2 tbsp Chinese cooking wine, 1/3 tsp salt, 1/4 tsp baking soda, and 1/2 tsp black pepper. Let sit for 30 minutes, then add 1/4 cup cornstarch to coat the beef.",
+          "Cut and separate the green and white parts of the spring onion.",
+          "Coat the beef with additional cornstarch and mix with 1.5 large egg white, massaging for another 5 minutes."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2: Make Sauce",
+        "content": [
+          "Mix the sauce ingredients: 2 tsp cornstarch, 1 tbsp oyster sauce, 3 tbsp soy sauce, 3 tbsp brown sugar, 2/3 cup water, and 1/2 tsp ark soy sauce. Set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3: Stir Fry",
+        "content": [
+          "Heat 2 cups of frying oil and add the beef piece by piece; fry for 1-2 minutes per batch to prevent sticking.",
+          "In a separate pan, heat about 1.5 tbsp cooking oil, then add the minced ginger, minced garlic, and the white part of the spring onion. Stir-fry until fragrant.",
+          "Pour in the prepared sauce and stir until it thickens. Return the beef to the pan and mix thoroughly.",
+          "Garnish with the green parts of the spring onion and serve with white rice."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [
+      {
+        "order": 1,
+        "note": "Adjust cooking times as needed depending on the thickness of the beef."
+      }
+    ],
+    "link": "https://soupeduprecipes.com/mongolian-beef/"
+  }
+  

@@ -1,0 +1,67 @@
+{
+    "slug": "beef-lo-mein",
+    "title": "Beef Lo Mein",
+    "cover_image": "/data/images/beef-lo-mein.jpg",
+    "description": "An upgraded beef lo mein with tender beef, flavorful noodles, and plenty of umami from oyster sauce. Perfect for a quick and delicious meal.",
+    "overview": "A flavorful beef lo mein with tender beef and umami-rich oyster sauce.",
+    "prep_time": "15 min.",
+    "cook_time": "15 min.",
+    "servings": "4 servings",
+    "tags": ["Beef", "lo mein"],
+    "ingredients": [
+      {
+        "title": "Marinade",
+        "content": [
+          "300 grams beef slices",
+          "1/2 tbsp soy sauce",
+          "1/4 tsp salt",
+          "1/8 tsp baking soda",
+          "2 tbsp cooking wine",
+          "1/2 tsp black pepper",
+          "1/2 tbsp cornstarch"
+        ]
+      },
+      {
+        "title": "Main",
+        "content": [
+          "300 g fresh egg noodles",
+          "1.5 tbsp soy sauce",
+          "3 tbsp oyster sauce",
+          "3 tbsp peanut oil",
+          "1 medium onion",
+          "3 pieces scallion"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "PREP INGREDIENTS",
+        "content": [
+          "Slice 300 grams of beef into 1/8 inch thick pieces. You can use beef chuck, flank, ribeye, or sirloin steak.",
+          "Marinate the beef with 1/2 tbsp soy sauce, 1/4 tsp salt, 1/8 tsp baking soda, 2 tbsp cooking wine, 1/2 tsp black pepper, and 1/2 tbsp cornstarch."
+        ],
+        "images": []
+      },
+      {
+        "title": "COOK",
+        "content": [
+          "Bring a pot of water to a boil. Cook 2 portions of fresh egg noodles for 2-3 minutes, or follow the package instructions if using a different type.",
+          "While waiting for the noodles, heat a wok on maximum heat until it is smoking hot. Add enough oil to coat the bottom generously.",
+          "Add the marinated beef and stir-fry until the beef is halfway cooked (it should still be slightly pink).",
+          "Add sliced onion and stir-fry for another 15 seconds.",
+          "Drain the noodles, shaking off excess water. Add a bunch of scallion to the wok along with the noodles, then turn off the heat.",
+          "Add 1.5 tbsp soy sauce, 3 tbsp oyster sauce, and 1.5 tsp dark soy sauce. Toss everything together until well combined."
+        ],
+        "images": []
+      },
+      {
+        "title": "Notes",
+        "content": [
+          "Turn off the heat before adding the noodles to ensure you get lo mein (stir and mix) rather than chao mein (stir-fried noodles).",
+          "Taste and adjust seasoning as needed, since different brands of sauces vary in saltiness. Optionally, add toasted sesame oil if desired."
+        ],
+        "images": []
+      }
+    ]
+  }
+  

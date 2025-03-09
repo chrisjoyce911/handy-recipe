@@ -1,0 +1,58 @@
+{
+    "slug": "broccoli-carrot-chicken",
+    "title": "Broccoli Carrot Chicken",
+    "cover_image": "",
+    "description": "A simple stir-fry dish combining broccoli, carrot, and chicken in a savory sauce.",
+    "overview": "A quick and flavorful broccoli carrot chicken stir-fry.",
+    "prep_time": "10 min.",
+    "cook_time": "10 min.",
+    "servings": "2-3 servings",
+    "tags": ["Chicken"],
+    "ingredients": [
+      {
+        "title": "Ingredients",
+        "content": [
+          "300 grams of broccoli",
+          "1/2 carrot",
+          "3 minced cloves of garlic",
+          "250 grams of chicken breast",
+          "A pinch of salt",
+          "A pinch of black pepper",
+          "2-3 tablespoons of oil"
+        ]
+      },
+      {
+        "title": "Sauce",
+        "content": [
+          "1 tablespoon of light soy sauce",
+          "2 tablespoons of oyster sauce",
+          "1/2 teaspoon of dark soy sauce",
+          "1/2 cup of water",
+          "Corn starch slurry – 1 teaspoon of corn starch + 2-3 teaspoons of water"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Preparation",
+        "content": [
+          "Rinse broccoli and soak for 2 minutes, then chop into bite-size pieces.",
+          "Thinly slice the carrot.",
+          "Thinly cut the chicken into bite-sized pieces; add a pinch of salt and a pinch of black pepper, then mix well."
+        ],
+        "images": []
+      },
+      {
+        "title": "Cooking",
+        "content": [
+          "In a little oil, stir-fry the chicken for 2-3 minutes. Then add the 3 minced cloves of garlic and sauté for 20-30 seconds.",
+          "Add the broccoli and carrot, and stir-fry for 2-3 minutes.",
+          "Then add 1 tablespoon of light soy sauce, 2 tablespoons of oyster sauce, 1/2 cup of water, and 1/2 teaspoon of dark soy sauce.",
+          "Once simmering, add the corn starch slurry (1 teaspoon of corn starch mixed with 2-3 teaspoons of water)."
+        ],
+        "images": []
+      }
+    ],
+    "notes": []
+  }
+  

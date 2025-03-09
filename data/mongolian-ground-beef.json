@@ -1,0 +1,96 @@
+{
+    "slug": "mongolian-ground-beef",
+    "title": "Mongolian Ground Beef",
+    "cover_image": "/data/images/mongolian-ground-beef.jpg",
+    "description": "An Americanized take on Mongolian Beef featuring ground beef stir-fried with aromatics and coated in a glossy, sweet-savory sauce. Perfect served over rice.",
+    "overview": "Savory, sweet, and tangy Mongolian Ground Beef with aromatic vegetables—ideal for a quick dinner with rice.",
+    "prep_time": "10 min.",
+    "cook_time": "10 min.",
+    "servings": "4 servings",
+    "tags": ["Ground Beef"],
+    "ingredients": [
+      {
+        "title": "Stir Fry Ingredients",
+        "content": [
+          "5 green onions",
+          "5 cloves garlic",
+          "2.5 tsp (10g) grated ginger",
+          "3 tbsp neutral-tasting oil, divided",
+          "500g ground beef (or ground pork, chicken, etc.)",
+          "1/2 tbsp toasted sesame oil",
+          "3-4 cups hot cooked rice (about 1 cup per serving)",
+          "5 Vietnamese dried chilies (optional)",
+          "1/2 mild red chili (or bell pepper) (optional), for garnish"
+        ]
+      },
+      {
+        "title": "Sauce Ingredients",
+        "content": [
+          "3 tbsp soy sauce",
+          "2 tbsp sugar",
+          "1 tbsp oyster sauce",
+          "1 tsp chicken bouillon powder",
+          "1/2 tsp dark soy sauce",
+          "1 tbsp light corn syrup",
+          "2 tbsp Shaoxing wine (or mirin, dry sherry, water, etc.)",
+          "Black pepper, to taste",
+          "5 tbsp water",
+          "1 tbsp cornstarch"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1: Prep Ingredients",
+        "content": [
+          "Thinly slice the white parts of the green onions. Cut the green parts into long strips (about 2 inches/5 cm) and set aside.",
+          "Smash the garlic cloves and finely chop them. Grate a small knob of ginger (2.5 tsp).",
+          "Make the sauce: In a small container, mix together the soy sauce, sugar, oyster sauce, chicken bouillon powder, dark soy sauce, light corn syrup, Shaoxing wine, black pepper, water, and cornstarch. Set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2: Fry the Beef",
+        "content": [
+          "In a wok (or pan), heat 1 tbsp of oil over medium-high heat. Once hot, add the ground beef, breaking it up as it cooks. Sauté for 7 to 8 minutes until the beef is nicely browned. Remove from the wok and set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3: Sauté Aromatics",
+        "content": [
+          "To the same pan, add 2 tbsp of oil and heat over medium. Add the white parts of the green onions, garlic, and ginger. Stir-fry for about 1 minute until fragrant."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 4: Add Chilies",
+        "content": [
+          "Add the thicker parts of the green onions and the dried chilies (if using). Stir-fry for another 30 seconds."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 5: Combine with Sauce",
+        "content": [
+          "Pour in the prepared sauce and simmer for 1 minute until the sauce thickens slightly. Return the beef to the pan and mix together for 1 minute. Turn the heat off, then add the remaining green onions and 1/2 tbsp toasted sesame oil. Give it a final mix."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 6: Serve",
+        "content": [
+          "Spoon hot cooked rice into bowls and add a generous amount of the Mongolian Ground Beef on top. Garnish with sliced red chili if desired, and serve immediately."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [
+      {
+        "order": 1,
+        "note": "Adjust the seasoning and cooking times based on your equipment and the thickness of the meat."
+      }
+    ],
+    "link": "https://soupeduprecipes.com/mongolian-beef/"
+  }
+  

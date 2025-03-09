@@ -1,0 +1,62 @@
+{
+  "slug": "air-fryer-teriyaki-chicken",
+  "title": "Air Fryer Teriyaki Chicken",
+  "cover_image": "",
+  "description": "A delicious teriyaki chicken made easy in the air fryer.",
+  "overview": "A delicious teriyaki chicken made easy in the air fryer.",
+  "prep_time": "15 min.",
+  "cook_time": "15 min.",
+  "servings": "4 servings",
+  "tags": ["Chicken"],
+  "ingredients": [
+    {
+      "title": "Ingredients",
+      "content": [
+        "200g boneless, skin-on chicken thighs",
+        "Kosher salt and black pepper, to season",
+        "1 tbsp soy sauce",
+        "1/2 tbsp oyster sauce",
+        "1 tbsp mirin",
+        "1/2 tbsp sugar",
+        "1/2 tbsp minced garlic",
+        "1/2 tsp grated ginger",
+        "1 cup hot cooked rice",
+        "1 green onion, to garnish"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "title": "Chicken",
+      "content": [
+        "Season the chicken with salt and pepper.",
+        "Marinate for 10–15 minutes."
+      ],
+      "images": ["/images/air-fryer-chicken.jpg"]
+    },
+    {
+      "title": "SAUCE",
+      "content": [
+        "In a container, combine:",
+        "1 tbsp soy sauce",
+        "1/2 tbsp oyster sauce",
+        "1 tbsp mirin",
+        "1/2 tbsp sugar",
+        "1/2 tbsp minced garlic",
+        "1/2 tsp grated ginger",
+        "Mix until dissolved."
+      ],
+      "images": ["/images/air-fryer-sauce.jpg"]
+    },
+    {
+      "title": "Instructions",
+      "content": [
+        "Dry the chicken.",
+        "Cook in air fryer at 180℃ for 10 minutes.",
+        "Brush sauce, flip, cook another 5 minutes.",
+        "Serve over rice with green onion."
+      ],
+      "images": ["/images/air-fryer-instructions.jpg"]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+    "slug": "moroccan-beef-kebabs",
+    "title": "Moroccan Beef Kebabs",
+    "cover_image": "",
+    "description": "description",
+    "overview": "Flavorful Moroccan beef kebabs made with marinated beef porterhouse steak skewers, perfect for a summer BBQ.",
+    "prep_time": "5 min.",
+    "cook_time": "5 min.",
+    "servings": "",
+    "tags": ["Beef", "Moroccan", "Kebabs"],
+    "ingredients": [
+      {
+        "title": "Marinade",
+        "content": [
+          "1/2 cup Chopped fresh coriander",
+          "60ml (1/4 cup) Lemon juice",
+          "2 cloves Garlic, crushed",
+          "2 teaspoons Ground coriander",
+          "2 teaspoons Olive oil",
+          "2 teaspoons Ground cumin",
+          "1/2 teaspoon Dried chilli flakes",
+          "1/4 teaspoon Ground cinnamon",
+          "750g beef porterhouse steak, trimmed, cut into 3cm pieces"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1",
+        "content": [
+          "Place fresh coriander, lemon juice, garlic, olive oil, ground coriander, cumin, chilli flakes, and cinnamon in a glass or ceramic bowl."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2",
+        "content": [
+          "Cut the beef into 3cm pieces."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3",
+        "content": [
+          "Add the beef to the bowl and toss to coat evenly. Cover with plastic wrap and marinate in the fridge for 1 hour."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 4",
+        "content": [
+          "Thread the marinated beef onto bamboo skewers and season with salt and pepper."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 5",
+        "content": [
+          "Preheat a chargrill or barbecue grill on medium-high. Spray the skewers with oil and cook for 2-3 minutes on each side until the beef is browned and cooked to your liking."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 6",
+        "content": [
+          "Transfer the kebabs to a plate, cover loosely with foil, and let them rest for 5 minutes before serving."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [
+      {
+        "order": 1,
+        "note": "For Moroccan Lamb Kebabs, replace the beef with lamb leg steak and swap fresh coriander for fresh mint."
+      }
+    ],
+    "link": "https://www.taste.com.au/recipes/moroccan-beef-kebabs/5109776f-c61b-4fd4-b53b-5d3c15ba42f1"
+  }
+  

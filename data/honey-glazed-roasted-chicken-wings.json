@@ -1,0 +1,82 @@
+{
+    "slug": "honey-glazed-roasted-chicken-wings",
+    "title": "Honey Glazed Roasted Chicken Wings",
+    "cover_image": "/data/images/honey-glazed-roasted-chicken-wings.jpg",
+    "description": "This is a classic item from Cantonese-style BBQ shops (Siu Laap). You’ve probably seen them in China Town alongside roasted duck, crispy pork belly, and char siu. Honey glazed wings are my all-time favorite—and they’re so easy to make.",
+    "overview": "Crispy, honey-glazed chicken wings with a savory marinade, perfect for a crowd.",
+    "prep_time": "5 min.",
+    "cook_time": "5 min.",
+    "servings": "",
+    "tags": ["Chicken", "BBQ", "Wings"],
+    "ingredients": [
+      {
+        "title": "Marinade",
+        "content": [
+          "1 kg chicken wings",
+          "1 tbsp hoisin sauce",
+          "1 tbsp oyster sauce",
+          "1 tbsp sriracha",
+          "1.5 tsp salt",
+          "2 tbsp soy sauce",
+          "2 tbsp honey",
+          "1 inch ginger, crushed and diced",
+          "4-5 cloves garlic, crushed and diced",
+          "3 scallions, diced"
+        ]
+      },
+      {
+        "title": "Glaze",
+        "content": [
+          "3 tbsp honey",
+          "1 tsp water (optional)"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Step 1",
+        "content": [
+          "Make the marinade: In a bowl, combine 2 tbsp soy sauce, 1 tbsp hoisin sauce, 1 tbsp oyster sauce, 1 tbsp sriracha, 2 tbsp honey, 1.5 tsp salt, crushed ginger, garlic, and scallions. Mix well and set aside."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 2",
+        "content": [
+          "Prepare the chicken: Use paper towels to absorb any excess moisture from the chicken wings so that the marinade isn’t diluted."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 3",
+        "content": [
+          "Marinate the chicken: Place all the wings in a zip-lock bag with the marinade. Massage the bag for about 5 minutes to ensure even coating, then refrigerate overnight."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 4",
+        "content": [
+          "Preheat the oven to 420°F. Remove the wings from the marinade and arrange them on a baking rack. Bake for 25 minutes."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 5",
+        "content": [
+          "Flip the wings: After 25 minutes, flip the wings and bake for an additional 15–20 minutes until the color is even and crispy."
+        ],
+        "images": []
+      },
+      {
+        "title": "Step 6",
+        "content": [
+          "Glaze the wings: Brush the wings with 3 tbsp honey. Serve immediately."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [],
+    "link": "https://japan.recipetineats.com/chicken-stir-fry-celery-carrot-cashew/"
+  }
+  

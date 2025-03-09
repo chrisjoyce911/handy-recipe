@@ -1,0 +1,97 @@
+{
+    "slug": "maekjeok",
+    "title": "Maekjeok",
+    "cover_image": "/data/images/maekjeok.jpg",
+    "description": "A flavorful Korean pork dish featuring tender, marinated and grilled pork served over rice with a fresh chive salad and optional soft-boiled eggs.",
+    "overview": "Delicious Korean marinated pork (Maekjeok) served with a zesty chive salad.",
+    "prep_time": "15 min.",
+    "cook_time": "6 min.",
+    "servings": "4 servings",
+    "tags": ["Pork", "Korean", "BBQ"],
+    "ingredients": [
+      {
+        "title": "Ingredients",
+        "content": [
+          "500g pork belly (or pork shoulder, pork loin, etc.)",
+          "Handful of Yeongyang chives (or garlic chives, green onion, lettuce, cucumber, etc.), about 90g",
+          "1 mild red chili (optional), for color",
+          "1 tbsp neutral-tasting oil",
+          "2-3 cups hot rice (about 1 cup per serving)",
+          "Soft-Boiled Eggs (optional), to serve",
+          "Generous pinch of toasted sesame seeds, to garnish"
+        ]
+      },
+      {
+        "title": "Marinade",
+        "content": [
+          "2.5 tbsp Korean soybean paste (doenjang)",
+          "1/2 tbsp soy sauce",
+          "1 tbsp oyster sauce",
+          "1 tbsp sugar",
+          "3 tbsp mirin",
+          "1 tbsp minced garlic",
+          "1 tbsp light corn syrup",
+          "1 tbsp toasted sesame oil",
+          "1/4 tsp black pepper"
+        ]
+      },
+      {
+        "title": "Salad Dressing",
+        "content": [
+          "1 tbsp Korean chili pepper flakes (gochugaru) - Optional",
+          "1.5 tbsp white vinegar",
+          "1 tbsp sugar",
+          "1 tbsp toasted sesame oil",
+          "1/2 tbsp toasted sesame seeds",
+          "1/2 tbsp minced garlic",
+          "1 tsp fish sauce"
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "title": "Marinate Pork",
+        "content": [
+          "Score the pork belly on both sides and cut it into bite-sized pieces.",
+          "In a mixing bowl, combine the Korean soybean paste, soy sauce, oyster sauce, sugar, mirin, minced garlic, light corn syrup, toasted sesame oil, and black pepper.",
+          "Add the pork and gently massage the marinade into the meat. Cover and marinate in the fridge for 30 minutes or overnight."
+        ],
+        "images": []
+      },
+      {
+        "title": "Make Chive Salad",
+        "content": [
+          "Take a big handful of chives and cut them into 2.5-inch (5 cm) lengths. Remove any seeds and, if using, julienne the red chili for color.",
+          "In a small container, mix together the Korean chili pepper flakes, white vinegar, sugar, toasted sesame oil, toasted sesame seeds, minced garlic, and fish sauce.",
+          "Pour the dressing over the chives and toss well."
+        ],
+        "images": []
+      },
+      {
+        "title": "Cook Marinated Pork",
+        "content": [
+          "In a large pan, add a little oil and use paper towels to evenly coat the bottom of the pan.",
+          "Heat over medium heat and add the pork. Cook for 5 to 6 minutes, flipping frequently to prevent burning."
+        ],
+        "images": []
+      },
+      {
+        "title": "Assemble",
+        "content": [
+          "Divide the hot rice among serving bowls.",
+          "Add a generous portion of the cooked pork (Maekjeok). Optionally, use a blowtorch to lightly char the pork for extra flavor.",
+          "Top with the chive salad and, if using, soft-boiled eggs.",
+          "Finish with a sprinkle of toasted sesame seeds and serve immediately."
+        ],
+        "images": []
+      }
+    ],
+    "notes": [
+      {
+        "order": 1,
+        "note": "For best results, marinate the pork overnight."
+      }
+    ],
+    "link": ""
+  }
+  
